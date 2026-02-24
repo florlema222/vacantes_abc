@@ -1,0 +1,42 @@
+name: Verificar Vacantes Docentes
+
+on:
+  # Ejecutar cada 6 horas
+  schedule:
+    - cron: '0 */6 * * *'  # A las 0:00, 6:00, 12:00, 18:00 UTC
+
+  # Permitir ejecución manual
+  workflow_dispatch:
+
+jobs:
+  check-vacantes:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias
+        run: |
+          pip install -r requirements.txt
+
+      - name: Ejecutar verificación de vacantes
+        env:
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+        run: |
+          python main.py --once
+
+      - name: Commit cambios en datos
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/
+          git diff --staged --quiet || git commit -m "Actualizar registro de vacantes notificadas"
+          git push

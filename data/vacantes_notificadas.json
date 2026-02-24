@@ -1,0 +1,18 @@
+{
+  "vacantes_notificadas": {
+    "3797301": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "fecha_notificacion": "2026-02-24T18:11:37.021151"
+    }
+  },
+  "log_consultas": [
+    {
+      "fecha": "2026-02-24T18:11:37.021879",
+      "total_encontradas": 4,
+      "nuevas": 1,
+      "estado": "OK"
+    }
+  ]
+}

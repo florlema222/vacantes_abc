@@ -1,0 +1,27 @@
+# Variables de entorno
+.env
+
+# Base de datos local
+*.db
+
+# Archivos personales (oblea PDF no se sube)
+oblea.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+.venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

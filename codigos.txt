@@ -1,0 +1,65 @@
+# Códigos de área habilitados - Oblea 2026
+# Extraídos de la imagen de oblea
+
+# ADULTOS y CENS (L)
+/PR
++3N
+CJV
+CVP
+
+# ARTISTICA (T)
+APV
+CCD
+CPV
+MMP
+MPA
+MPB
+MPE
+MPP
+MPT
+MVI
+PEE
+PPA
+PPE
+PRA
+PRT
+YAI
+YAV
+YCA
+YIP
+YLD
+YLG
+YLP
+YNM
+YPA
+YTI
+YVL
+
+# PRIMARIA (G)
+/PR
+
+# SECUNDARIA (E)
+/PR
+CCD
+CD3
+CL2
+CM2
+CT2
+EAD
+INM
+LEP
+PAI
+PAV
+RTE
+
+# TECNICO PROFESIONAL (A)
+/PR
+-7H
+ADW
+CCD
+DIG
+EAD
+GRE
+MOV
+RTE
+TPG
