@@ -13,6 +13,12 @@
       "total_encontradas": 4,
       "nuevas": 1,
       "estado": "OK"
+    },
+    {
+      "fecha": "2026-02-24T21:28:03.180899",
+      "total_encontradas": 4,
+      "nuevas": 0,
+      "estado": "OK - Sin nuevas"
     }
   ]
 }
