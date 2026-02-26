@@ -11,6 +11,12 @@
       "area": "CCD",
       "nivel": "SECUNDARIA",
       "fecha_notificacion": "2026-02-26T00:55:29.968793"
+    },
+    "3803106": {
+      "cargo": "CONSTRUCCION DE CIUDADANIA (CCD)",
+      "area": "CCD",
+      "nivel": "SECUNDARIA",
+      "fecha_notificacion": "2026-02-26T18:34:41.575699"
     }
   },
   "log_consultas": [
@@ -67,6 +73,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-02-26T18:34:41.576169",
+      "total_encontradas": 14,
+      "nuevas": 1,
+      "estado": "OK"
     }
   ]
 }
