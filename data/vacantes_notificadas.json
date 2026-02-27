@@ -17,6 +17,12 @@
       "area": "CCD",
       "nivel": "SECUNDARIA",
       "fecha_notificacion": "2026-02-26T18:34:41.575699"
+    },
+    "3806391": {
+      "cargo": "PLASTICA - VISUAL (APV)",
+      "area": "APV",
+      "nivel": "ARTISTICA",
+      "fecha_notificacion": "2026-02-27T00:57:06.114252"
     }
   },
   "log_consultas": [
@@ -77,6 +83,12 @@
     {
       "fecha": "2026-02-26T18:34:41.576169",
       "total_encontradas": 14,
+      "nuevas": 1,
+      "estado": "OK"
+    },
+    {
+      "fecha": "2026-02-27T00:57:06.114652",
+      "total_encontradas": 23,
       "nuevas": 1,
       "estado": "OK"
     }
