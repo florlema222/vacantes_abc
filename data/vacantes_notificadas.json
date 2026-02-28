@@ -23,6 +23,12 @@
       "area": "APV",
       "nivel": "ARTISTICA",
       "fecha_notificacion": "2026-02-27T00:57:06.114252"
+    },
+    "3810657": {
+      "cargo": "PLASTICA - VISUAL (APV)",
+      "area": "APV",
+      "nivel": "ARTISTICA",
+      "fecha_notificacion": "2026-02-28T00:50:06.450731"
     }
   },
   "log_consultas": [
@@ -109,6 +115,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-02-28T00:50:06.451209",
+      "total_encontradas": 13,
+      "nuevas": 1,
+      "estado": "OK"
     }
   ]
 }
