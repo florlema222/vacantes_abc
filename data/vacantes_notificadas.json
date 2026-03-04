@@ -29,6 +29,24 @@
       "area": "APV",
       "nivel": "ARTISTICA",
       "fecha_notificacion": "2026-02-28T00:50:06.450731"
+    },
+    "3821655": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "fecha_notificacion": "2026-03-04T00:55:47.568083"
+    },
+    "3821695": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "fecha_notificacion": "2026-03-04T00:55:47.568734"
+    },
+    "3821752": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "fecha_notificacion": "2026-03-04T00:55:47.569091"
     }
   },
   "log_consultas": [
@@ -211,6 +229,12 @@
       "total_encontradas": 2,
       "nuevas": 0,
       "estado": "OK - Sin coincidencias"
+    },
+    {
+      "fecha": "2026-03-04T00:55:47.569460",
+      "total_encontradas": 22,
+      "nuevas": 3,
+      "estado": "OK"
     }
   ]
 }
