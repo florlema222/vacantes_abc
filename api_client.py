@@ -11,6 +11,7 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.ssl_ import create_urllib3_context
 
 import config
+from escuelas import obtener_nombre_escuela
 
 
 # Adapter para manejar servidores con SSL/TLS antiguo
@@ -34,12 +35,14 @@ logger = logging.getLogger(__name__)
 class Vacante:
     """Representa una vacante docente."""
     id: str
+    id_oferta: str  # ID de la oferta para link a postulantes
     cargo: str
     descripcion_cargo: str
     area_incumbencia: str
     nivel_modalidad: str
     distrito: str
-    escuela: str
+    escuela_codigo: str  # Código de la escuela (ej: 0078PP0014)
+    escuela_nombre: str  # Nombre completo de la escuela
     domicilio: str
     turno: str
     jornada: str
@@ -52,14 +55,17 @@ class Vacante:
     @classmethod
     def from_api_response(cls, data: dict) -> "Vacante":
         """Crea una Vacante desde la respuesta de la API."""
+        codigo_escuela = data.get("escuela", "")
         return cls(
             id=data.get("id", ""),
+            id_oferta=str(data.get("idoferta", "")),
             cargo=data.get("cargo", ""),
             descripcion_cargo=data.get("descripcioncargo", ""),
             area_incumbencia=data.get("areaincumbencia", "").upper().strip(),
             nivel_modalidad=data.get("descnivelmodalidad", ""),
             distrito=data.get("descdistrito", ""),
-            escuela=data.get("escuela", ""),
+            escuela_codigo=codigo_escuela,
+            escuela_nombre=obtener_nombre_escuela(codigo_escuela),
             domicilio=data.get("domiciliodesempeno", ""),
             turno=data.get("turno", ""),
             jornada=data.get("jornada", ""),

@@ -1,0 +1,382 @@
+{
+  "0078AA0001": {
+    "nombre": "ESCUELA DE ARTE Nº1 \"ALCIDES BIAGETTI\"",
+    "numero": "1"
+  },
+  "0078AE0001": {
+    "nombre": "ESCUELA DE EDUCACIÓN ARTÍSTICA Nº 1 \"ROSARIO ECHEGUREN DE DELL´AGNOLO\"",
+    "numero": "1"
+  },
+  "0078DC0702": {
+    "nombre": "CENTRO DE ADULTOS Nº702/01",
+    "numero": "702"
+  },
+  "0078DC0703": {
+    "nombre": "CENTRO DE ADULTOS Nº703/01",
+    "numero": "703"
+  },
+  "0078DC0704": {
+    "nombre": "CENTRO DE ADULTOS Nº704/01",
+    "numero": "704"
+  },
+  "0078DE0705": {
+    "nombre": "ESCUELA DE EDUCACIÓN PRIMARIA DE ADULTOS N°705",
+    "numero": "705"
+  },
+  "0078DC0707": {
+    "nombre": "CENTRO DE ADULTOS Nº707/09",
+    "numero": "707"
+  },
+  "0078DC0708": {
+    "nombre": "CENTRO DE ADULTOS Nº708/09",
+    "numero": "708"
+  },
+  "0078DE0709": {
+    "nombre": "ESCUELA DE EDUCACIÓN PRIMARIA DE ADULTOS Nº 709",
+    "numero": "709"
+  },
+  "0078DC0710": {
+    "nombre": "CENTRO DE ADULTOS Nº710/01",
+    "numero": "710"
+  },
+  "0078DE0701": {
+    "nombre": "ESCUELA DE ADULTOS Nº701",
+    "numero": "701"
+  },
+  "0078EE0501": {
+    "nombre": "ESCUELA ESPECIAL Nº501 \"COMANDANTE LUIS PIEDRABUENA\"",
+    "numero": "501"
+  },
+  "0078EE0502": {
+    "nombre": "ESCUELA ESPECIAL Nº502",
+    "numero": "502"
+  },
+  "0078EL0001": {
+    "nombre": "CENTRO DE FORMACIÓN INTEGRAL Nº1",
+    "numero": "1"
+  },
+  "0078ET0001": {
+    "nombre": "ESCUELA DE EDUCACIÓN TEMPRANA Nº 1",
+    "numero": "1"
+  },
+  "0078IS0025": {
+    "nombre": "INSTITUTO SUPERIOR DE FORMACION DOCENTE Nº25",
+    "numero": "25"
+  },
+  "0078JI0901": {
+    "nombre": "JARDÍN DE INFANTES Nº901 \"MARCELINA RIAL DE ALVAREZ\"",
+    "numero": "901"
+  },
+  "0078JI0902": {
+    "nombre": "JARDÍN DE INFANTES Nº902 \"HUGO STROEDER\"",
+    "numero": "902"
+  },
+  "0078JI0903": {
+    "nombre": "JARDÍN DE INFANTES Nº 903 \"BERNARDO IBARROULE\"",
+    "numero": "903"
+  },
+  "0078JI0904": {
+    "nombre": "JARDÍN DE INFANTES Nº904 \"COMANDANTE LUIS PIEDRABUENA\"",
+    "numero": "904"
+  },
+  "0078JI0905": {
+    "nombre": "JARDÍN DE INFANTES Nº905",
+    "numero": "905"
+  },
+  "0078JI0906": {
+    "nombre": "JARDÍN DE INFANTES Nº906 \"GENERAL DON JOSÉ DE SAN MARTIN\"",
+    "numero": "906"
+  },
+  "0078JI0907": {
+    "nombre": "JARDÍN DE INFANTES Nº907 \"REINA CARDONE\"",
+    "numero": "907"
+  },
+  "0078JI0908": {
+    "nombre": "JARDÍN DE INFANTES Nº908 \"BASILIO VILLARINO\"",
+    "numero": "908"
+  },
+  "0078JI0909": {
+    "nombre": "JARDÍN DE INFANTES Nº909",
+    "numero": "909"
+  },
+  "0078JI0910": {
+    "nombre": "JARDÍN DE INFANTES Nº910",
+    "numero": "910"
+  },
+  "0078MA0001": {
+    "nombre": "ESCUELA DE EDUCACIÓN SECUNDARIA AGRARIA Nº1 \"CARLOS SPEGAZZINI\"",
+    "numero": "1"
+  },
+  "0078MS0001": {
+    "nombre": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº1 \"PASO ALSINA\"",
+    "numero": "1"
+  },
+  "0078MS0002": {
+    "nombre": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº2 \"ISLAS MALVINAS\"",
+    "numero": "2"
+  },
+  "0078MS0003": {
+    "nombre": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº3 \"7 DE MARZO\"",
+    "numero": "3"
+  },
+  "0078PP0002": {
+    "nombre": "ESCUELA DE EDUCACIÓN PRIMARIA Nº2 \"BARTOLOME MITRE\"",
+    "numero": "2"
+  },
+  "0078PP0004": {
+    "nombre": "ESCUELA DE EDUCACIÓN PRIMARIA Nº4 \"JUAN BAUTISTA ALBERDI\"",
+    "numero": "4"
+  },
+  "0078PP0006": {
+    "nombre": "ESCUELA DE EDUCACIÓN PRIMARIA Nº 6 \"BERNARDINO RIVADAVIA\"",
+    "numero": "6"
+  },
+  "0078PP0007": {
+    "nombre": "ESCUELA DE EDUCACIÓN PRIMARIA Nº7 \"ISLAS MALVINAS\"",
+    "numero": "7"
+  },
+  "0078PP0008": {
+    "nombre": "ESCUELA DE EDUCACIÓN PRIMARIA Nº8 \"GRAL. SAN MARTIN\"",
+    "numero": "8"
+  },
+  "0078PP0009": {
+    "nombre": "ESCUELA DE EDUCACIÓN PRIMARIA Nº9 \"DOMINGO FAUSTINO SARMIENTO\"",
+    "numero": "9"
+  },
+  "0078PP0011": {
+    "nombre": "ESCUELA DE EDUCACIÓN PRIMARIA Nº11 \"HIPOLITO YRIGOYEN\"",
+    "numero": "11"
+  },
+  "0078PP0012": {
+    "nombre": "ESCUELA DE EDUCACIÓN PRIMARIA Nº12 \"NUESTRA SEÑORA DEL CARMEN\"",
+    "numero": "12"
+  },
+  "0078PP0013": {
+    "nombre": "ESCUELA DE EDUCACIÓN PRIMARIA Nº13 \"GRAL. MANUEL BELGRANO\"",
+    "numero": "13"
+  },
+  "0078PP0014": {
+    "nombre": "ESCUELA DE EDUCACIÓN PRIMARIA Nº14 \"MARIANO ZAMBONINI\"",
+    "numero": "14"
+  },
+  "0078PP0015": {
+    "nombre": "ESCUELA DE EDUCACIÓN PRIMARIA Nº15 \"TAMBOR DE TACUARI\"",
+    "numero": "15"
+  },
+  "0078PP0018": {
+    "nombre": "ESCUELA DE EDUCACIÓN PRIMARIA Nº18 \"MARTÍN MIGUEL DE GÜEMES\"",
+    "numero": "18"
+  },
+  "0078PP0019": {
+    "nombre": "ESCUELA DE EDUCACIÓN PRIMARIA Nº 19 \"ALMIRANTE GUILERMO BROWN\"",
+    "numero": "19"
+  },
+  "0078PP0020": {
+    "nombre": "ESCUELA DE EDUCACIÓN PRIMARIA Nº20 \"CLARA DE JARATZ\"",
+    "numero": "20"
+  },
+  "0078PP0021": {
+    "nombre": "ESCUELA DE EDUCACIÓN PRIMARIA Nº21 \"JUAN GOMEZ DE LA PINTA\"",
+    "numero": "21"
+  },
+  "0078PP0022": {
+    "nombre": "ESCUELA DE EDUCACIÓN PRIMARIA Nº22 \"NIÑAS DE AYOHUMA\"",
+    "numero": "22"
+  },
+  "0078PP0024": {
+    "nombre": "ESCUELA DE EDUCACIÓN PRIMARIA Nº24 \"MARIANO MORENO\"",
+    "numero": "24"
+  },
+  "0078PP0025": {
+    "nombre": "ESCUELA DE EDUCACIÓN PRIMARIA Nº25 \"SUBTE. SEBASTIAN OLIVERA\"",
+    "numero": "25"
+  },
+  "0078PP0026": {
+    "nombre": "ESCUELA DE EDUCACIÓN PRIMARIA Nº26 \"SAN FRANCISCO DEL MONTE DE ORO\"",
+    "numero": "26"
+  },
+  "0078PP0027": {
+    "nombre": "ESCUELA DE EDUCACIÓN PRIMARIA Nº27 \"NUESTRA SEÑORA STELLA MARIS\"",
+    "numero": "27"
+  },
+  "0078PP0028": {
+    "nombre": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
+    "numero": "28"
+  },
+  "0078PP0029": {
+    "nombre": "ESCUELA DE EDUCACIÓN PRIMARIA Nº29 \"LA DELFINA\"",
+    "numero": "29"
+  },
+  "0078PP0030": {
+    "nombre": "ESCUELA DE EDUCACIÓN PRIMARIA Nº30 \"JOSÉ MANUEL ESTRADA\"",
+    "numero": "30"
+  },
+  "0078PP0034": {
+    "nombre": "ESCUELA DE EDUCACIÓN PRIMARIA Nº34 \"SANTIAGO J. BYNON\"",
+    "numero": "34"
+  },
+  "0078PP0035": {
+    "nombre": "ESCUELA DE EDUCACIÓN PRIMARIA Nº35 \"CEFERINO NAMUNCURA\"",
+    "numero": "35"
+  },
+  "0078DF0401": {
+    "nombre": "CENTRO DE FORMACIÓN PROFESIONAL Nº401",
+    "numero": "401"
+  },
+  "0078SC0001": {
+    "nombre": "CENTRO EDUCATIVO COMPLEMENTARIO Nº1",
+    "numero": "1"
+  },
+  "4078JI2992": {
+    "nombre": "JARDÍN DE INFANTES JUANITO BOSCO",
+    "numero": "2992"
+  },
+  "4078MS4547": {
+    "nombre": "INSTITUTO SAN JOSE",
+    "numero": "4547"
+  },
+  "4078MS4548": {
+    "nombre": "INSTITUTO MARIA AUXILIADORA",
+    "numero": "4548"
+  },
+  "0078MS0007": {
+    "nombre": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº7",
+    "numero": "7"
+  },
+  "4078PP0456": {
+    "nombre": "COLEGIO LA DIVINA PROVIDENCIA",
+    "numero": "456"
+  },
+  "4078PP0457": {
+    "nombre": "COLEGIO MARIA AUXILIADORA",
+    "numero": "457"
+  },
+  "4078PP0458": {
+    "nombre": "ESCUELA SAN JOSE",
+    "numero": "458"
+  },
+  "0078JS0001": {
+    "nombre": "JARDÍN DE INFANTES RURAL Nº1",
+    "numero": "1"
+  },
+  "0078JS0004": {
+    "nombre": "JARDÍN DE INFANTES RURAL Nº4 \"LAS ARDILLITAS\"",
+    "numero": "4"
+  },
+  "0078JS0003": {
+    "nombre": "JARDÍN DE INFANTES RURAL Nº3",
+    "numero": "3"
+  },
+  "0078JS0006": {
+    "nombre": "JARDÍN DE INFANTES RURAL Nº6",
+    "numero": "6"
+  },
+  "0078JS0005": {
+    "nombre": "JARDÍN DE INFANTES RURAL Nº5",
+    "numero": "5"
+  },
+  "0078JS0007": {
+    "nombre": "JARDÍN DE INFANTES RURAL Nº7",
+    "numero": "7"
+  },
+  "0078JS0002": {
+    "nombre": "JARDÍN DE INFANTES RURAL Nº2",
+    "numero": "2"
+  },
+  "0078JI0911": {
+    "nombre": "JARDÍN DE INFANTES Nº911 \"CEFERINO NAMUNCURA\"",
+    "numero": "911"
+  },
+  "0078MS0004": {
+    "nombre": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº4 \"ALMAFUERTE\"",
+    "numero": "4"
+  },
+  "0078FC0110": {
+    "nombre": "CENTRO DE EDUCACIÓN FÍSICA Nº110 \"HUILCHES\"",
+    "numero": "110"
+  },
+  "0078MS0005": {
+    "nombre": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº 5 \"EMMA NOZZI\"",
+    "numero": "5"
+  },
+  "0078EE0542": {
+    "nombre": "ANEXO ESCUELA ESPECIAL Nº502",
+    "numero": "542"
+  },
+  "0078DM0451": {
+    "nombre": "CENTRO EDUCATIVO NIVEL SECUNDARIO Nº451",
+    "numero": "451"
+  },
+  "0078MS0008": {
+    "nombre": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº8 \"EDUARDO VÁZQUEZ\"",
+    "numero": "8"
+  },
+  "0078PP0038": {
+    "nombre": "ESCUELA DE EDUCACION PRIMARIA Nº38 \"ALFONSINA STORNI\"",
+    "numero": "38"
+  },
+  "0078MS0006": {
+    "nombre": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº6 \"CATALINA ISABEL VILLARINO\"",
+    "numero": "6"
+  },
+  "0078JS0008": {
+    "nombre": "JARDÍN DE INFANTES RURAL Nº8",
+    "numero": "8"
+  },
+  "0078MC0023": {
+    "nombre": "CENTRO EDUCATIVO PARA LA PRODUCCIÓN TOTAL Nº23",
+    "numero": "23"
+  },
+  "0078SC0002": {
+    "nombre": "CENTRO EDUCATIVO COMPLEMENTARIO Nº2",
+    "numero": "2"
+  },
+  "4078MS7788": {
+    "nombre": "LA DIVINA PROVIDENCIA",
+    "numero": "7788"
+  },
+  "0078JS0010": {
+    "nombre": "JARDÍN DE INFANTES RURAL Nº10",
+    "numero": "10"
+  },
+  "0078JS0009": {
+    "nombre": "JARDÍN DE INFANTES RURAL Nº9",
+    "numero": "9"
+  },
+  "0078FC0166": {
+    "nombre": "CENTRO DE EDUCACIÓN FÍSICA Nº166",
+    "numero": "166"
+  },
+  "0078FC2660": {
+    "nombre": "CENTRO DE EDUCACIÓN FÍSICA Nº166 - EXTENSIÓN I",
+    "numero": "2660"
+  },
+  "0078FC2661": {
+    "nombre": "CENTRO DE EDUCACIÓN FÍSICA Nº166 - EXTENSIÓN II",
+    "numero": "2661"
+  },
+  "0078MT0001": {
+    "nombre": "ESCUELA DE EDUCACIÓN SECUNDARIA TÉCNICA Nº1",
+    "numero": "1"
+  },
+  "0078DM0452": {
+    "nombre": "CENTRO EDUCATIVO DE NIVEL SECUNDARIO Nº452",
+    "numero": "452"
+  },
+  "0078JM0001": {
+    "nombre": "JARDÍN MATERNAL N°1",
+    "numero": "1"
+  },
+  "0078DF3011": {
+    "nombre": "CENTRO DE FORMACIÓN PROFESIONAL N°401 - ANEXO 1",
+    "numero": "3011"
+  },
+  "0078SC0003": {
+    "nombre": "CENTRO EDUCATIVO COMPLEMENTARIO Nº3",
+    "numero": "3"
+  },
+  "0078DF0402": {
+    "nombre": "CENTRO DE FORMACIÓN LABORAL Nº 402",
+    "numero": "402"
+  }
+}

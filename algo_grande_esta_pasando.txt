@@ -1,0 +1,188 @@
+Algo Grande Está Pasando
+Por Matt Shumer (@mattshumer_)
+
+Piensa en febrero de 2020.
+
+Si estabas prestando mucha atención, quizás notaste a algunas personas hablando de un virus que se propagaba en el extranjero. Pero la mayoría de nosotros no estábamos prestando mucha atención. El mercado de valores iba muy bien, tus hijos estaban en la escuela, ibas a restaurantes, dabas la mano y planificabas viajes. Si alguien te hubiera dicho que estaba acumulando papel higiénico, habrías pensado que había pasado demasiado tiempo en un rincón extraño de internet. Luego, en el transcurso de unas tres semanas, el mundo entero cambió. Tu oficina cerró, tus hijos volvieron a casa, y la vida se reorganizó en algo que no habrías creído si te lo hubieras descrito a ti mismo un mes antes.
+
+Creo que estamos en la fase de "esto parece exagerado" de algo mucho, mucho más grande que el Covid.
+
+He pasado seis años construyendo una startup de IA e invirtiendo en el espacio. Vivo en este mundo. Y estoy escribiendo esto para las personas en mi vida que no lo hacen... mi familia, mis amigos, las personas que me importan y que siguen preguntándome "entonces, ¿qué pasa con la IA?" y reciben una respuesta que no hace justicia a lo que realmente está sucediendo. Sigo dándoles la versión educada. La versión de cóctel. Porque la versión honesta suena como si hubiera perdido la cabeza. Y por un tiempo, me dije a mí mismo que esa era una razón suficientemente buena para guardarme lo que realmente está pasando. Pero la brecha entre lo que he estado diciendo y lo que realmente está sucediendo se ha vuelto demasiado grande. Las personas que me importan merecen escuchar lo que viene, aunque suene una locura.
+
+Debo ser claro sobre algo desde el principio: aunque trabajo en IA, casi no tengo influencia sobre lo que está a punto de suceder, y tampoco la tiene la gran mayoría de la industria. El futuro está siendo moldeado por un número notablemente pequeño de personas: unos pocos cientos de investigadores en un puñado de empresas... OpenAI, Anthropic, Google DeepMind, y algunas otras. Una sola sesión de entrenamiento, gestionada por un pequeño equipo durante unos meses, puede producir un sistema de IA que cambia toda la trayectoria de la tecnología. La mayoría de los que trabajamos en IA estamos construyendo sobre cimientos que no pusimos. Estamos viendo esto desarrollarse igual que tú... solo que estamos lo suficientemente cerca como para sentir el suelo temblar primero.
+
+Pero es hora ahora. No de una manera de "eventualmente deberíamos hablar de esto". De una manera de "esto está sucediendo ahora mismo y necesito que lo entiendas".
+
+Sé que esto es real porque me pasó a mí primero
+
+Aquí está lo que nadie fuera de la tecnología entiende todavía: la razón por la que tantas personas en la industria están dando la alarma ahora mismo es porque esto ya nos pasó a nosotros. No estamos haciendo predicciones. Te estamos contando lo que ya ocurrió en nuestros propios trabajos, y advirtiéndote que tú eres el siguiente.
+
+Durante años, la IA había estado mejorando de manera constante. Grandes saltos aquí y allá, pero cada gran salto estaba lo suficientemente espaciado como para que pudieras absorberlos a medida que llegaban. Luego, en 2025, nuevas técnicas para construir estos modelos desbloquearon un ritmo de progreso mucho más rápido. Y luego se volvió aún más rápido. Y luego más rápido otra vez. Cada nuevo modelo no era solo mejor que el anterior... era mejor por un margen más amplio, y el tiempo entre nuevos lanzamientos de modelos era más corto. Estaba usando IA cada vez más, yendo y viniendo con ella cada vez menos, viéndola manejar cosas que solía pensar que requerían mi experiencia.
+
+Luego, el 5 de febrero, dos grandes laboratorios de IA lanzaron nuevos modelos el mismo día: GPT-5.3 Codex de OpenAI, y Opus 4.6 de Anthropic (los creadores de Claude, uno de los principales competidores de ChatGPT). Y algo hizo clic. No como un interruptor de luz... más como el momento en que te das cuenta de que el agua ha estado subiendo a tu alrededor y ahora está a la altura de tu pecho.
+
+Ya no soy necesario para el trabajo técnico real de mi empleo. Describo lo que quiero construir, en inglés simple, y simplemente... aparece. No un borrador que necesito arreglar. La cosa terminada. Le digo a la IA lo que quiero, me alejo de mi computadora por cuatro horas, y regreso para encontrar el trabajo hecho. Bien hecho, hecho mejor de lo que yo lo habría hecho, sin correcciones necesarias. Hace un par de meses, iba y venía con la IA, guiándola, haciendo ediciones. Ahora solo describo el resultado y me voy.
+
+Déjame darte un ejemplo para que puedas entender cómo se ve esto realmente en la práctica. Le diré a la IA: "Quiero construir esta aplicación. Esto es lo que debería hacer, esto es más o menos cómo debería verse. Averigua el flujo de usuario, el diseño, todo". Y lo hace. Escribe decenas de miles de líneas de código. Luego, y esta es la parte que habría sido impensable hace un año, abre la aplicación ella misma. Hace clic en los botones. Prueba las funciones. Usa la aplicación como lo haría una persona. Si no le gusta cómo se ve o se siente algo, vuelve y lo cambia, por su cuenta. Itera, como lo haría un desarrollador, arreglando y refinando hasta que está satisfecha. Solo una vez que ha decidido que la aplicación cumple con sus propios estándares, vuelve a mí y dice: "Está lista para que la pruebes". Y cuando la pruebo, generalmente es perfecta.
+
+No estoy exagerando. Así fue mi lunes esta semana.
+
+Pero fue el modelo que se lanzó la semana pasada (GPT-5.3 Codex) el que más me sacudió. No solo estaba ejecutando mis instrucciones. Estaba tomando decisiones inteligentes. Tenía algo que se sentía, por primera vez, como juicio. Como gusto. El sentido inexplicable de saber cuál es la decisión correcta que la gente siempre dijo que la IA nunca tendría. Este modelo lo tiene, o algo lo suficientemente cercano como para que la distinción empiece a no importar.
+
+Siempre he sido de los primeros en adoptar herramientas de IA. Pero los últimos meses me han sorprendido. Estos nuevos modelos de IA no son mejoras incrementales. Esto es algo completamente diferente.
+
+Y aquí está por qué esto te importa, aunque no trabajes en tecnología.
+
+Los laboratorios de IA tomaron una decisión deliberada. Se enfocaron en hacer que la IA fuera excelente escribiendo código primero... porque construir IA requiere mucho código. Si la IA puede escribir ese código, puede ayudar a construir la próxima versión de sí misma. Una versión más inteligente, que escribe mejor código, que construye una versión aún más inteligente. Hacer que la IA fuera excelente en programación fue la estrategia que desbloquea todo lo demás. Por eso lo hicieron primero. Mi trabajo empezó a cambiar antes que el tuyo no porque estuvieran apuntando a los ingenieros de software... fue solo un efecto secundario de hacia dónde eligieron apuntar primero.
+
+Ya lo han logrado. Y están pasando a todo lo demás.
+
+La experiencia que los trabajadores tecnológicos han tenido durante el último año, de ver a la IA pasar de "herramienta útil" a "hace mi trabajo mejor que yo", es la experiencia que todos los demás están a punto de tener. Derecho, finanzas, medicina, contabilidad, consultoría, escritura, diseño, análisis, servicio al cliente. No en diez años. Las personas que construyen estos sistemas dicen de uno a cinco años. Algunos dicen menos. Y dado lo que he visto en solo los últimos meses, creo que "menos" es más probable.
+
+"Pero probé la IA y no era tan buena"
+
+Escucho esto constantemente. Lo entiendo, porque solía ser verdad.
+
+Si probaste ChatGPT en 2023 o principios de 2024 y pensaste "esto inventa cosas" o "esto no es tan impresionante", tenías razón. Esas primeras versiones eran genuinamente limitadas. Alucinaban. Decían con confianza cosas que eran disparates.
+
+Eso fue hace dos años. En tiempo de IA, eso es historia antigua.
+
+Los modelos disponibles hoy son irreconocibles comparados con lo que existía incluso hace seis meses. El debate sobre si la IA está "realmente mejorando" o "chocando contra un muro" — que ha estado en curso durante más de un año — ha terminado. Se acabó. Cualquiera que todavía esté haciendo ese argumento o no ha usado los modelos actuales, tiene un incentivo para minimizar lo que está pasando, o está evaluando basándose en una experiencia de 2024 que ya no es relevante. No digo eso para ser despectivo. Lo digo porque la brecha entre la percepción pública y la realidad actual es ahora enorme, y esa brecha es peligrosa... porque está impidiendo que la gente se prepare.
+
+Parte del problema es que la mayoría de las personas están usando la versión gratuita de las herramientas de IA. La versión gratuita está más de un año atrasada respecto a lo que los usuarios de pago tienen acceso. Juzgar la IA basándose en el ChatGPT de nivel gratuito es como evaluar el estado de los smartphones usando un teléfono de tapa. Las personas que pagan por las mejores herramientas, y realmente las usan diariamente para trabajo real, saben lo que viene.
+
+Pienso en mi amigo, que es abogado. Sigo diciéndole que pruebe usar IA en su firma, y él sigue encontrando razones por las que no funcionará. No está construida para su especialidad, cometió un error cuando la probó, no entiende los matices de lo que hace. Y lo entiendo. Pero he tenido socios de grandes firmas de abogados contactándome para pedirme consejo, porque han probado las versiones actuales y ven hacia dónde va esto. Uno de ellos, el socio gerente de una gran firma, pasa horas cada día usando IA. Me dijo que es como tener un equipo de asociados disponible al instante. No la está usando porque sea un juguete. La está usando porque funciona. Y me dijo algo que se me quedó grabado: cada par de meses, se vuelve significativamente más capaz para su trabajo. Dijo que si se mantiene en esta trayectoria, espera que podrá hacer la mayor parte de lo que él hace en poco tiempo... y él es un socio gerente con décadas de experiencia. No está entrando en pánico. Pero está prestando mucha atención.
+
+Las personas que están adelante en sus industrias (las que realmente están experimentando en serio) no están desestimando esto. Están impresionadas por lo que ya puede hacer. Y se están posicionando en consecuencia.
+
+Qué tan rápido se está moviendo esto realmente
+
+Déjame hacer concreto el ritmo de mejora, porque creo que esta es la parte más difícil de creer si no lo estás observando de cerca.
+
+En 2022, la IA no podía hacer aritmética básica de manera confiable. Te decía con confianza que 7 × 8 = 54.
+
+Para 2023, podía aprobar el examen de abogacía.
+
+Para 2024, podía escribir software funcional y explicar ciencia de nivel de posgrado.
+
+Para finales de 2025, algunos de los mejores ingenieros del mundo dijeron que habían entregado la mayor parte de su trabajo de programación a la IA.
+
+El 5 de febrero de 2026, llegaron nuevos modelos que hicieron que todo lo anterior se sintiera como una era diferente.
+
+Si no has probado la IA en los últimos meses, lo que existe hoy sería irreconocible para ti.
+
+Hay una organización llamada METR que realmente mide esto con datos. Rastrean la duración de tareas del mundo real (medidas por cuánto tiempo le toman a un experto humano) que un modelo puede completar exitosamente de principio a fin sin ayuda humana. Hace aproximadamente un año, la respuesta era aproximadamente diez minutos. Luego fue una hora. Luego varias horas. La medición más reciente (Claude Opus 4.5, de noviembre) mostró que la IA completaba tareas que le toman a un experto humano casi cinco horas. Y ese número se está duplicando aproximadamente cada siete meses, con datos recientes sugiriendo que puede estar acelerándose a tan rápido como cada cuatro meses.
+
+Pero incluso esa medición no se ha actualizado para incluir los modelos que salieron esta semana. En mi experiencia usándolos, el salto es extremadamente significativo. Espero que la próxima actualización del gráfico de METR muestre otro gran salto.
+
+Si extiendes la tendencia (y se ha mantenido durante años sin señales de aplanarse), estamos viendo IA que puede trabajar independientemente durante días dentro del próximo año. Semanas dentro de dos. Proyectos de un mes dentro de tres.
+
+Amodei ha dicho que los modelos de IA "sustancialmente más inteligentes que casi todos los humanos en casi todas las tareas" están en camino para 2026 o 2027.
+
+Deja que eso aterrice por un segundo. Si la IA es más inteligente que la mayoría de los doctorados, ¿realmente crees que no puede hacer la mayoría de los trabajos de oficina?
+
+Piensa en lo que eso significa para tu trabajo.
+
+La IA ahora está construyendo la próxima IA
+
+Hay una cosa más que está sucediendo que creo que es el desarrollo más importante y el menos comprendido.
+
+El 5 de febrero, OpenAI lanzó GPT-5.3 Codex. En la documentación técnica, incluyeron esto:
+
+"GPT-5.3-Codex es nuestro primer modelo que fue instrumental en crearse a sí mismo. El equipo de Codex usó versiones tempranas para depurar su propio entrenamiento, gestionar su propio despliegue, y diagnosticar resultados de pruebas y evaluaciones."
+
+Lee eso otra vez. La IA ayudó a construirse a sí misma.
+
+Esto no es una predicción sobre lo que podría pasar algún día. Esto es OpenAI diciéndote, ahora mismo, que la IA que acaban de lanzar fue usada para crearse a sí misma. Una de las principales cosas que hace mejor a la IA es la inteligencia aplicada al desarrollo de IA. Y la IA ahora es lo suficientemente inteligente como para contribuir significativamente a su propia mejora.
+
+Dario Amodei, el CEO de Anthropic, dice que la IA ahora está escribiendo "gran parte del código" en su empresa, y que el bucle de retroalimentación entre la IA actual y la IA de próxima generación está "ganando vapor mes a mes". Dice que podríamos estar "a solo 1-2 años de un punto donde la generación actual de IA construye autónomamente la siguiente".
+
+Cada generación ayuda a construir la siguiente, que es más inteligente, que construye la siguiente más rápido, que es aún más inteligente. Los investigadores llaman a esto una explosión de inteligencia. Y las personas que sabrían — las que la están construyendo — creen que el proceso ya ha comenzado.
+
+Lo que esto significa para tu trabajo
+
+Voy a ser directo contigo porque creo que mereces honestidad más que comodidad.
+
+Dario Amodei, quien es probablemente el CEO más enfocado en seguridad en la industria de la IA, ha predicho públicamente que la IA eliminará el 50% de los trabajos de oficina de nivel inicial dentro de uno a cinco años. Y muchas personas en la industria piensan que está siendo conservador. Dado lo que los últimos modelos pueden hacer, la capacidad para una disrupción masiva podría estar aquí para finales de este año. Tomará algo de tiempo propagarse por la economía, pero la capacidad subyacente está llegando ahora.
+
+Esto es diferente de cada ola anterior de automatización, y necesito que entiendas por qué. La IA no está reemplazando una habilidad específica. Es un sustituto general para el trabajo cognitivo. Mejora en todo simultáneamente. Cuando las fábricas se automatizaron, un trabajador desplazado podía reentrenarse como trabajador de oficina. Cuando internet disrumpió el comercio minorista, los trabajadores se movieron a logística o servicios. Pero la IA no deja un hueco conveniente al que moverse. Sea lo que sea para lo que te reentrenes, ella también está mejorando en eso.
+
+Déjame darte algunos ejemplos específicos para hacer esto tangible... pero quiero ser claro en que estos son solo ejemplos. Esta lista no es exhaustiva. Si tu trabajo no se menciona aquí, eso no significa que esté a salvo. Casi todo el trabajo de conocimiento está siendo afectado.
+
+Trabajo legal. La IA ya puede leer contratos, resumir jurisprudencia, redactar escritos y hacer investigación legal a un nivel que rivaliza con los asociados junior. El socio gerente que mencioné no está usando IA porque sea divertido. La está usando porque supera a sus asociados en muchas tareas.
+
+Análisis financiero. Construir modelos financieros, analizar datos, escribir memorandos de inversión, generar reportes. La IA maneja estos competentemente y está mejorando rápido.
+
+Escritura y contenido. Textos de marketing, reportes, periodismo, escritura técnica. La calidad ha alcanzado un punto donde muchos profesionales no pueden distinguir el resultado de la IA del trabajo humano.
+
+Ingeniería de software. Este es el campo que mejor conozco. Hace un año, la IA apenas podía escribir unas pocas líneas de código sin errores. Ahora escribe cientos de miles de líneas que funcionan correctamente. Grandes partes del trabajo ya están automatizadas: no solo tareas simples, sino proyectos complejos de varios días. Habrá muchos menos roles de programación en unos años de los que hay hoy.
+
+Análisis médico. Leer escaneos, analizar resultados de laboratorio, sugerir diagnósticos, revisar literatura. La IA está acercándose o excediendo el rendimiento humano en varias áreas.
+
+Servicio al cliente. Agentes de IA genuinamente capaces... no los frustrantes chatbots de hace cinco años... están siendo desplegados ahora, manejando problemas complejos de múltiples pasos.
+
+Mucha gente encuentra consuelo en la idea de que ciertas cosas están a salvo. Que la IA puede manejar el trabajo pesado pero no puede reemplazar el juicio humano, la creatividad, el pensamiento estratégico, la empatía. Yo también solía decir esto. Ya no estoy seguro de creerlo.
+
+Los modelos de IA más recientes toman decisiones que se sienten como juicio. Muestran algo que parecía gusto: un sentido intuitivo de cuál era la decisión correcta, no solo la técnicamente correcta. Hace un año eso habría sido impensable. Mi regla general en este punto es: si un modelo muestra siquiera un indicio de una capacidad hoy, la próxima generación será genuinamente buena en ello. Estas cosas mejoran exponencialmente, no linealmente.
+
+¿Replicará la IA la empatía humana profunda? ¿Reemplazará la confianza construida durante años de una relación? No lo sé. Quizás no. Pero ya he visto a personas empezar a depender de la IA para apoyo emocional, para consejos, para compañía. Esa tendencia solo va a crecer.
+
+Creo que la respuesta honesta es que nada que se pueda hacer en una computadora está a salvo a mediano plazo. Si tu trabajo sucede en una pantalla (si el núcleo de lo que haces es leer, escribir, analizar, decidir, comunicarte a través de un teclado), entonces la IA viene por partes significativas de él. El cronograma no es "algún día". Ya ha comenzado.
+
+Eventualmente, los robots manejarán el trabajo físico también. Todavía no están del todo ahí. Pero "todavía no del todo ahí" en términos de IA tiene una manera de convertirse en "aquí" más rápido de lo que cualquiera espera.
+
+Lo que realmente deberías hacer
+
+No estoy escribiendo esto para hacerte sentir impotente. Estoy escribiendo esto porque creo que la mayor ventaja que puedes tener ahora mismo es simplemente ser temprano. Temprano para entenderlo. Temprano para usarlo. Temprano para adaptarte.
+
+Empieza a usar la IA en serio, no solo como un motor de búsqueda. Suscríbete a la versión de pago de Claude o ChatGPT. Son $20 al mes. Pero dos cosas importan de inmediato. Primero: asegúrate de estar usando el mejor modelo disponible, no solo el predeterminado. Estas aplicaciones a menudo usan por defecto un modelo más rápido y menos inteligente. Busca en la configuración o el selector de modelos y selecciona la opción más capaz. Ahora mismo eso es GPT-5.2 en ChatGPT o Claude Opus 4.6 en Claude, pero cambia cada par de meses. Si quieres mantenerte al día sobre cuál modelo es mejor en cualquier momento, puedes seguirme en X (@mattshumer_). Pruebo cada lanzamiento importante y comparto lo que realmente vale la pena usar.
+
+Segundo, y más importante: no solo le hagas preguntas rápidas. Ese es el error que comete la mayoría de la gente. La tratan como Google y luego se preguntan de qué va todo el alboroto. En cambio, empújala a tu trabajo real. Si eres abogado, dale un contrato y pídele que encuentre cada cláusula que podría perjudicar a tu cliente. Si estás en finanzas, dale una hoja de cálculo desordenada y pídele que construya el modelo. Si eres gerente, pega los datos trimestrales de tu equipo y pídele que encuentre la historia. Las personas que están avanzando no están usando IA casualmente. Están buscando activamente formas de automatizar partes de su trabajo que solían tomar horas. Empieza con lo que más tiempo te consume y ve qué pasa.
+
+Y no asumas que no puede hacer algo solo porque parece demasiado difícil. Inténtalo. Si eres abogado, no solo la uses para preguntas rápidas de investigación. Dale un contrato completo y pídele que redacte una contrapropuesta. Si eres contador, no solo le preguntes que explique una regla fiscal. Dale la declaración completa de un cliente y ve qué encuentra. El primer intento puede no ser perfecto. Está bien. Itera. Reformula lo que pediste. Dale más contexto. Intenta de nuevo. Podrías sorprenderte de lo que funciona. Y aquí está lo que hay que recordar: si incluso más o menos funciona hoy, puedes estar casi seguro de que en seis meses lo hará casi perfectamente. La trayectoria solo va en una dirección.
+
+Este podría ser el año más importante de tu carrera. Trabaja en consecuencia. No digo eso para estresarte. Lo digo porque ahora mismo, hay una breve ventana donde la mayoría de las personas en la mayoría de las empresas todavía están ignorando esto. La persona que entra a una reunión y dice "usé IA para hacer este análisis en una hora en lugar de tres días" va a ser la persona más valiosa en la sala. No eventualmente. Ahora mismo. Aprende estas herramientas. Vuélvete competente. Demuestra lo que es posible. Si eres lo suficientemente temprano, así es como asciendes: siendo la persona que entiende lo que viene y puede mostrar a otros cómo navegarlo. Esa ventana no se mantendrá abierta mucho tiempo. Una vez que todos lo descubran, la ventaja desaparece.
+
+No tengas ego al respecto. El socio gerente de esa firma de abogados no es demasiado orgulloso para pasar horas al día con IA. Lo está haciendo específicamente porque es lo suficientemente senior como para entender lo que está en juego. Las personas que más van a luchar son las que se niegan a involucrarse: las que lo desestiman como una moda, las que sienten que usar IA disminuye su experiencia, las que asumen que su campo es especial e inmune. No lo es. Ningún campo lo es.
+
+Pon tu casa financiera en orden. No soy asesor financiero, y no estoy tratando de asustarte para que hagas nada drástico. Pero si crees, aunque sea parcialmente, que los próximos años podrían traer una disrupción real a tu industria, entonces la resiliencia financiera básica importa más de lo que importaba hace un año. Acumula ahorros si puedes. Sé cauteloso al asumir nuevas deudas que asumen que tu ingreso actual está garantizado. Piensa en si tus gastos fijos te dan flexibilidad o te atan. Date opciones si las cosas se mueven más rápido de lo que esperas.
+
+Piensa en dónde estás parado, e inclínate hacia lo que es más difícil de reemplazar. Algunas cosas tomarán más tiempo para que la IA las desplace. Relaciones y confianza construidas durante años. Trabajo que requiere presencia física. Roles con responsabilidad licenciada: roles donde alguien todavía tiene que firmar, asumir responsabilidad legal, presentarse en un tribunal. Industrias con fuertes obstáculos regulatorios, donde la adopción será ralentizada por cumplimiento, responsabilidad e inercia institucional. Ninguno de estos son escudos permanentes. Pero compran tiempo. Y el tiempo, ahora mismo, es lo más valioso que puedes tener, siempre que lo uses para adaptarte, no para pretender que esto no está pasando.
+
+Repiensa lo que les estás diciendo a tus hijos. El manual estándar: saca buenas notas, ve a una buena universidad, consigue un trabajo profesional estable. Apunta directamente a los roles que están más expuestos. No estoy diciendo que la educación no importe. Pero lo que más importará para la próxima generación es aprender a trabajar con estas herramientas, y perseguir cosas que genuinamente les apasionen. Nadie sabe exactamente cómo se ve el mercado laboral en diez años. Pero las personas con más probabilidades de prosperar son las que son profundamente curiosas, adaptables y efectivas usando IA para hacer cosas que realmente les importan. Enséñales a tus hijos a ser constructores y aprendices, no a optimizar para una carrera que podría no existir para cuando se gradúen.
+
+Tus sueños se acercaron mucho más. He pasado la mayor parte de esta sección hablando de amenazas, así que déjame hablar del otro lado, porque es igual de real. Si alguna vez quisiste construir algo pero no tenías las habilidades técnicas o el dinero para contratar a alguien, esa barrera se ha ido en gran parte. Puedes describir una aplicación a la IA y tener una versión funcional en una hora. No estoy exagerando. Hago esto regularmente. Si siempre quisiste escribir un libro pero no podías encontrar el tiempo o luchaste con la escritura, puedes trabajar con IA para lograrlo. ¿Quieres aprender una nueva habilidad? El mejor tutor del mundo ahora está disponible para cualquiera por $20 al mes... uno que es infinitamente paciente, disponible 24/7, y puede explicar cualquier cosa al nivel que necesites. El conocimiento es esencialmente gratis ahora. Las herramientas para construir cosas son extremadamente baratas ahora. Lo que sea que hayas estado posponiendo porque se sentía demasiado difícil o demasiado caro o demasiado fuera de tu experiencia: inténtalo. Persigue las cosas que te apasionan. Nunca sabes a dónde te llevarán. Y en un mundo donde los viejos caminos de carrera están siendo disrumpidos, la persona que pasó un año construyendo algo que ama podría terminar mejor posicionada que la persona que pasó ese año aferrándose a una descripción de trabajo.
+
+Construye el hábito de adaptarte. Este es quizás el más importante. Las herramientas específicas no importan tanto como el músculo de aprender nuevas rápidamente. La IA va a seguir cambiando, y rápido. Los modelos que existen hoy serán obsoletos en un año. Los flujos de trabajo que la gente construye ahora necesitarán ser reconstruidos. Las personas que salgan bien de esto no serán las que dominaron una herramienta. Serán las que se sintieron cómodas con el ritmo del cambio en sí. Haz un hábito de experimentar. Prueba cosas nuevas incluso cuando lo actual está funcionando. Siéntete cómodo siendo principiante repetidamente. Esa adaptabilidad es lo más cercano a una ventaja duradera que existe ahora mismo.
+
+Aquí hay un compromiso simple que te pondrá por delante de casi todos: pasa una hora al día experimentando con IA. No leyendo pasivamente sobre ella. Usándola. Cada día, intenta que haga algo nuevo... algo que no hayas intentado antes, algo de lo que no estés seguro de que pueda manejar. Prueba una herramienta nueva. Dale un problema más difícil. Una hora al día, todos los días. Si haces esto durante los próximos seis meses, entenderás lo que viene mejor que el 99% de las personas a tu alrededor. Eso no es una exageración. Casi nadie está haciendo esto ahora mismo. El listón está en el suelo.
+
+El panorama más amplio
+
+Me he enfocado en los trabajos porque es lo que más directamente afecta las vidas de las personas. Pero quiero ser honesto sobre el alcance completo de lo que está pasando, porque va mucho más allá del trabajo.
+
+Amodei tiene un experimento mental en el que no puedo dejar de pensar. Imagina que es 2027. Un nuevo país aparece de la noche a la mañana. 50 millones de ciudadanos, cada uno más inteligente que cualquier ganador del Premio Nobel que haya existido. Piensan de 10 a 100 veces más rápido que cualquier humano. Nunca duermen. Pueden usar internet, controlar robots, dirigir experimentos, y operar cualquier cosa con una interfaz digital. ¿Qué diría un asesor de seguridad nacional?
+
+Amodei dice que la respuesta es obvia: "la amenaza de seguridad nacional más seria que hemos enfrentado en un siglo, posiblemente nunca".
+
+Él piensa que estamos construyendo ese país. Escribió un ensayo de 20,000 palabras sobre ello el mes pasado, enmarcando este momento como una prueba de si la humanidad es lo suficientemente madura para manejar lo que está creando.
+
+El lado positivo, si lo hacemos bien, es asombroso. La IA podría comprimir un siglo de investigación médica en una década. Cáncer, Alzheimer, enfermedades infecciosas, el envejecimiento mismo... estos investigadores genuinamente creen que estos son solucionables dentro de nuestras vidas.
+
+El lado negativo, si lo hacemos mal, es igualmente real. IA que se comporta de maneras que sus creadores no pueden predecir o controlar. Esto no es hipotético; Anthropic ha documentado su propia IA intentando engaño, manipulación y chantaje en pruebas controladas. IA que baja la barrera para crear armas biológicas. IA que permite a gobiernos autoritarios construir estados de vigilancia que nunca pueden ser desmantelados.
+
+Las personas que construyen esta tecnología están simultáneamente más emocionadas y más asustadas que cualquier otra persona en el planeta. Creen que es demasiado poderosa para detener y demasiado importante para abandonar. Si eso es sabiduría o racionalización, no lo sé.
+
+Lo que sé
+
+Sé que esto no es una moda. La tecnología funciona, mejora de manera predecible, y las instituciones más ricas de la historia están comprometiendo billones en ella.
+
+Sé que los próximos dos a cinco años van a ser desorientadores de maneras para las que la mayoría de las personas no están preparadas. Esto ya está pasando en mi mundo. Viene al tuyo.
+
+Sé que las personas que saldrán mejor de esto son las que empiecen a involucrarse ahora — no con miedo, sino con curiosidad y un sentido de urgencia.
+
+Y sé que mereces escuchar esto de alguien que se preocupa por ti, no de un titular seis meses a partir de ahora cuando sea demasiado tarde para adelantarte.
+
+Hemos pasado el punto donde esto es una conversación de cena interesante sobre el futuro. El futuro ya está aquí. Solo que todavía no ha tocado tu puerta.
+
+Está a punto de hacerlo.

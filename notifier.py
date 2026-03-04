@@ -13,6 +13,11 @@ from api_client import Vacante
 logger = logging.getLogger(__name__)
 
 
+def generar_link_postulantes(vacante: Vacante) -> str:
+    """Genera el link a la página de postulantes para ver el ranking."""
+    return f"https://misservicios.abc.gob.ar/actos.publicos.digitales/postulantes/?oferta={vacante.id_oferta}&detalle={vacante.id}"
+
+
 def generar_html_vacante(vacante: Vacante) -> str:
     """Genera el HTML para mostrar una vacante."""
     horarios = []
@@ -21,6 +26,7 @@ def generar_html_vacante(vacante: Vacante) -> str:
             horarios.append(f"<li><strong>{dia.capitalize()}:</strong> {horas}</li>")
 
     horarios_html = "<ul>" + "".join(horarios) + "</ul>" if horarios else "No especificado"
+    link_postulantes = generar_link_postulantes(vacante)
 
     return f"""
     <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin: 10px 0; background: #f9f9f9;">
@@ -36,7 +42,7 @@ def generar_html_vacante(vacante: Vacante) -> str:
             </tr>
             <tr>
                 <td style="padding: 5px 10px 5px 0; font-weight: bold;">Escuela:</td>
-                <td style="padding: 5px 0;">{vacante.escuela}</td>
+                <td style="padding: 5px 0;">{vacante.escuela_nombre}</td>
             </tr>
             <tr>
                 <td style="padding: 5px 10px 5px 0; font-weight: bold;">Domicilio:</td>
@@ -60,6 +66,9 @@ def generar_html_vacante(vacante: Vacante) -> str:
             {horarios_html}
         </div>
         {f'<p style="color: #666; font-size: 0.9em;">Reemplazo de: {vacante.docente_reemplazado} ({vacante.motivo_reemplazo})</p>' if vacante.docente_reemplazado else ''}
+        <div style="margin-top: 15px;">
+            <a href="{link_postulantes}" style="background: #2c5282; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px; font-size: 0.9em;">Ver mi ranking en esta vacante</a>
+        </div>
     </div>
     """
 
@@ -155,12 +164,14 @@ def enviar_test():
 
     vacante_test = Vacante(
         id="TEST-001",
+        id_oferta="TEST-OFERTA-001",
         cargo="PROFESOR/A DE EDUCACION PRIMARIA (TEST)",
         descripcion_cargo="Cargo de prueba",
         area_incumbencia="MAT",
         nivel_modalidad="primaria",
         distrito="PATAGONES",
-        escuela="E.P. N° 1 - TEST",
+        escuela_codigo="0078PP0014",
+        escuela_nombre='ESCUELA DE EDUCACIÓN PRIMARIA Nº14 "MARIANO ZAMBONINI"',
         domicilio="Calle Falsa 123, Carmen de Patagones",
         turno="M",
         jornada="JS",
