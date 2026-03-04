@@ -241,6 +241,12 @@
       "total_encontradas": 22,
       "nuevas": 0,
       "estado": "OK - Sin nuevas"
+    },
+    {
+      "fecha": "2026-03-04T12:26:58.371684",
+      "total_encontradas": 0,
+      "nuevas": 0,
+      "estado": "OK - Sin vacantes"
     }
   ]
 }
