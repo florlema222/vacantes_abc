@@ -47,6 +47,18 @@
       "area": "/PR",
       "nivel": "SECUNDARIA",
       "fecha_notificacion": "2026-03-04T00:55:47.569091"
+    },
+    "3827927": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "fecha_notificacion": "2026-03-05T00:58:08.583657"
+    },
+    "3828158": {
+      "cargo": "CONSTRUCCION DE CIUDADANIA (CCD)",
+      "area": "CCD",
+      "nivel": "SECUNDARIA",
+      "fecha_notificacion": "2026-03-05T00:58:08.584257"
     }
   },
   "log_consultas": [
@@ -253,6 +265,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-03-05T00:58:08.584649",
+      "total_encontradas": 16,
+      "nuevas": 2,
+      "estado": "OK"
     }
   ]
 }
