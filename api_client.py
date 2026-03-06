@@ -14,6 +14,17 @@ import config
 from escuelas import obtener_nombre_escuela
 
 
+def normalizar_texto(texto: str) -> str:
+    """Normaliza texto con posibles problemas de encoding."""
+    if not texto:
+        return texto
+    try:
+        # Intentar arreglar doble encoding (UTF-8 interpretado como Latin-1)
+        return texto.encode('latin-1').decode('utf-8')
+    except (UnicodeDecodeError, UnicodeEncodeError):
+        return texto
+
+
 # Adapter para manejar servidores con SSL/TLS antiguo
 class TLSAdapter(HTTPAdapter):
     """Adapter que permite conexiones con servidores TLS legacy."""
@@ -59,7 +70,7 @@ class Vacante:
         return cls(
             id=data.get("id", ""),
             id_oferta=str(data.get("idoferta", "")),
-            cargo=data.get("cargo", ""),
+            cargo=normalizar_texto(data.get("cargo", "")),
             descripcion_cargo=data.get("descripcioncargo", ""),
             area_incumbencia=data.get("areaincumbencia", "").upper().strip(),
             nivel_modalidad=data.get("descnivelmodalidad", ""),

@@ -85,7 +85,7 @@ def verificar_vacantes():
         if enviar_email(nuevas):
             # Marcar como notificadas solo si el email se envió
             for v in nuevas:
-                marcar_como_notificada(v.id, v.cargo, v.area_incumbencia, v.nivel_modalidad)
+                marcar_como_notificada(v.id, v.cargo, v.area_incumbencia, v.nivel_modalidad, v.escuela_nombre)
             registrar_consulta(len(vacantes), len(nuevas), "OK")
         else:
             registrar_consulta(len(vacantes), len(nuevas), "ERROR - Email no enviado")

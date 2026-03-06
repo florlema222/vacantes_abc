@@ -209,7 +209,9 @@ with tab2:
         for vid, info in sorted(datos["vacantes_notificadas"].items(),
                                 key=lambda x: x[1]["fecha_notificacion"],
                                 reverse=True):
-            st.write(f"• **{info['cargo']}** ({info['nivel']}) - {info['fecha_notificacion'][:10]}")
+            escuela = info.get('escuela', '')
+            escuela_str = f" - {escuela}" if escuela else ""
+            st.write(f"• **{info['cargo']}** ({info['nivel']}){escuela_str} - {info['fecha_notificacion'][:10]}")
     else:
         st.info("No hay vacantes notificadas aún")
 
@@ -260,7 +262,7 @@ with tab3:
 
                     if enviar_email(nuevas):
                         for v in nuevas:
-                            marcar_como_notificada(v.id, v.cargo, v.area_incumbencia, v.nivel_modalidad)
+                            marcar_como_notificada(v.id, v.cargo, v.area_incumbencia, v.nivel_modalidad, v.escuela_nombre)
                         st.success(f"Email enviado a {email_destino}!")
                     else:
                         st.error("Error al enviar email")

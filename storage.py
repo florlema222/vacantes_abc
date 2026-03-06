@@ -44,13 +44,14 @@ def vacante_ya_notificada(vacante_id: str) -> bool:
     return vacante_id in datos["vacantes_notificadas"]
 
 
-def marcar_como_notificada(vacante_id: str, cargo: str, area: str, nivel: str):
+def marcar_como_notificada(vacante_id: str, cargo: str, area: str, nivel: str, escuela: str = ""):
     """Marca una vacante como notificada."""
     datos = _cargar_datos()
     datos["vacantes_notificadas"][vacante_id] = {
         "cargo": cargo,
         "area": area,
         "nivel": nivel,
+        "escuela": escuela,
         "fecha_notificacion": datetime.now().isoformat()
     }
     _guardar_datos(datos)
