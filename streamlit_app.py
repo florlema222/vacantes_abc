@@ -167,7 +167,7 @@ with tab1:
 
                     with col1:
                         st.write(f"**Código área:** {v.area_incumbencia}")
-                        st.write(f"**Escuela:** {v.escuela}")
+                        st.write(f"**Escuela:** {v.escuela_nombre}")
                         st.write(f"**Domicilio:** {v.domicilio}")
                         st.write(f"**Turno:** {v.turno} | **Jornada:** {v.jornada}")
 
