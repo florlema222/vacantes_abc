@@ -349,6 +349,12 @@
       "total_encontradas": 25,
       "nuevas": 9,
       "estado": "OK"
+    },
+    {
+      "fecha": "2026-03-06T02:17:46.254152",
+      "total_encontradas": 25,
+      "nuevas": 0,
+      "estado": "OK - Sin nuevas"
     }
   ]
 }
