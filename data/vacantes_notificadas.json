@@ -59,6 +59,60 @@
       "area": "CCD",
       "nivel": "SECUNDARIA",
       "fecha_notificacion": "2026-03-05T00:58:08.584257"
+    },
+    "3834438": {
+      "cargo": "MAESTRO DE EDUCACION VISUAL INICIAL (MVI)",
+      "area": "MVI",
+      "nivel": "ARTISTICA",
+      "fecha_notificacion": "2026-03-06T01:02:36.228827"
+    },
+    "3834025": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "fecha_notificacion": "2026-03-06T01:02:36.229441"
+    },
+    "3834048": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "fecha_notificacion": "2026-03-06T01:02:36.229935"
+    },
+    "3833860": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "fecha_notificacion": "2026-03-06T01:02:36.230421"
+    },
+    "3833876": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "fecha_notificacion": "2026-03-06T01:02:36.230875"
+    },
+    "3834410": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "fecha_notificacion": "2026-03-06T01:02:36.231385"
+    },
+    "3834419": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "fecha_notificacion": "2026-03-06T01:02:36.231865"
+    },
+    "3834423": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "fecha_notificacion": "2026-03-06T01:02:36.232323"
+    },
+    "3834428": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "fecha_notificacion": "2026-03-06T01:02:36.232802"
     }
   },
   "log_consultas": [
@@ -289,6 +343,12 @@
       "total_encontradas": 2,
       "nuevas": 0,
       "estado": "OK - Sin coincidencias"
+    },
+    {
+      "fecha": "2026-03-06T01:02:36.233418",
+      "total_encontradas": 25,
+      "nuevas": 9,
+      "estado": "OK"
     }
   ]
 }
