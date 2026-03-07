@@ -113,6 +113,20 @@
       "area": "MPP",
       "nivel": "ARTISTICA",
       "fecha_notificacion": "2026-03-06T01:02:36.232802"
+    },
+    "3840516": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº20 \"CLARA DE JARATZ\"",
+      "fecha_notificacion": "2026-03-07T00:53:51.323235"
+    },
+    "3840433": {
+      "cargo": "MAESTRO DE EDUCACION VISUAL INICIAL (MVI)",
+      "area": "MVI",
+      "nivel": "ARTISTICA",
+      "escuela": "JARDÍN DE INFANTES RURAL Nº10",
+      "fecha_notificacion": "2026-03-07T00:53:51.324174"
     }
   },
   "log_consultas": [
@@ -373,6 +387,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-03-07T00:53:51.324721",
+      "total_encontradas": 26,
+      "nuevas": 2,
+      "estado": "OK"
     }
   ]
 }
