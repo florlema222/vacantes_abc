@@ -127,6 +127,62 @@
       "nivel": "ARTISTICA",
       "escuela": "JARDÍN DE INFANTES RURAL Nº10",
       "fecha_notificacion": "2026-03-07T00:53:51.324174"
+    },
+    "3849878": {
+      "cargo": "MAESTRO DE EDUCACION VISUAL INICIAL (MVI)",
+      "area": "MVI",
+      "nivel": "ARTISTICA",
+      "escuela": "JARDÍN DE INFANTES RURAL Nº10",
+      "fecha_notificacion": "2026-03-10T00:52:30.536700"
+    },
+    "3849650": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº20 \"CLARA DE JARATZ\"",
+      "fecha_notificacion": "2026-03-10T00:52:30.537385"
+    },
+    "3849682": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACION PRIMARIA Nº38 \"ALFONSINA STORNI\"",
+      "fecha_notificacion": "2026-03-10T00:52:30.537875"
+    },
+    "3849745": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACION PRIMARIA Nº38 \"ALFONSINA STORNI\"",
+      "fecha_notificacion": "2026-03-10T00:52:30.538375"
+    },
+    "3850552": {
+      "cargo": "CONSTRUCCION DE CIUDADANIA (CCD)",
+      "area": "CCD",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº2 \"ISLAS MALVINAS\"",
+      "fecha_notificacion": "2026-03-10T00:52:30.538843"
+    },
+    "3849839": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACION PRIMARIA Nº38 \"ALFONSINA STORNI\"",
+      "fecha_notificacion": "2026-03-10T00:52:30.539337"
+    },
+    "3850742": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
+      "fecha_notificacion": "2026-03-10T00:52:30.539822"
+    },
+    "3850351": {
+      "cargo": "ARTE (RTE)",
+      "area": "RTE",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº4 \"ALMAFUERTE\"",
+      "fecha_notificacion": "2026-03-10T00:52:30.540328"
     }
   },
   "log_consultas": [
@@ -459,6 +515,12 @@
       "total_encontradas": 3,
       "nuevas": 0,
       "estado": "OK - Sin coincidencias"
+    },
+    {
+      "fecha": "2026-03-10T00:52:30.540969",
+      "total_encontradas": 32,
+      "nuevas": 8,
+      "estado": "OK"
     }
   ]
 }
