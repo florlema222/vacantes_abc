@@ -246,6 +246,41 @@
       "nivel": "ARTISTICA",
       "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº 5 \"EMMA NOZZI\"",
       "fecha_notificacion": "2026-03-11T00:54:00.438693"
+    },
+    "3861002": {
+      "cargo": "MAESTRO DE EDUCACION VISUAL INICIAL (MVI)",
+      "area": "MVI",
+      "nivel": "ARTISTICA",
+      "escuela": "JARDÍN DE INFANTES RURAL Nº10",
+      "fecha_notificacion": "2026-03-11T18:36:44.130066"
+    },
+    "3861009": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº20 \"CLARA DE JARATZ\"",
+      "fecha_notificacion": "2026-03-11T18:36:44.131007"
+    },
+    "3861588": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
+      "fecha_notificacion": "2026-03-11T18:36:44.131801"
+    },
+    "3862826": {
+      "cargo": "CONSTRUCCION DE CIUDADANIA (CCD)",
+      "area": "CCD",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº8 \"EDUARDO VÁZQUEZ\"",
+      "fecha_notificacion": "2026-03-11T18:36:44.132544"
+    },
+    "3861645": {
+      "cargo": "PLASTICA - VISUAL (APV)",
+      "area": "APV",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº4 \"ALMAFUERTE\"",
+      "fecha_notificacion": "2026-03-11T18:36:44.133266"
     }
   },
   "log_consultas": [
@@ -620,6 +655,12 @@
       "total_encontradas": 1,
       "nuevas": 0,
       "estado": "OK - Sin coincidencias"
+    },
+    {
+      "fecha": "2026-03-11T18:36:44.134023",
+      "total_encontradas": 28,
+      "nuevas": 5,
+      "estado": "OK"
     }
   ]
 }
