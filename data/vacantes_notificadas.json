@@ -183,6 +183,69 @@
       "nivel": "SECUNDARIA",
       "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº4 \"ALMAFUERTE\"",
       "fecha_notificacion": "2026-03-10T00:52:30.540328"
+    },
+    "3857296": {
+      "cargo": "ARTE (RTE)",
+      "area": "RTE",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº3 \"7 DE MARZO\"",
+      "fecha_notificacion": "2026-03-11T00:54:00.433064"
+    },
+    "3856903": {
+      "cargo": "MAESTRO DE EDUCACION VISUAL INICIAL (MVI)",
+      "area": "MVI",
+      "nivel": "ARTISTICA",
+      "escuela": "JARDÍN DE INFANTES RURAL Nº10",
+      "fecha_notificacion": "2026-03-11T00:54:00.433983"
+    },
+    "3856877": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº20 \"CLARA DE JARATZ\"",
+      "fecha_notificacion": "2026-03-11T00:54:00.434657"
+    },
+    "3856888": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
+      "fecha_notificacion": "2026-03-11T00:54:00.435308"
+    },
+    "3856963": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº7 \"ISLAS MALVINAS\"",
+      "fecha_notificacion": "2026-03-11T00:54:00.435928"
+    },
+    "3856995": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº7 \"ISLAS MALVINAS\"",
+      "fecha_notificacion": "2026-03-11T00:54:00.436578"
+    },
+    "3857102": {
+      "cargo": "PLASTICA - VISUAL (APV)",
+      "area": "APV",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº4 \"ALMAFUERTE\"",
+      "fecha_notificacion": "2026-03-11T00:54:00.437258"
+    },
+    "3857118": {
+      "cargo": "PLASTICA - VISUAL (APV)",
+      "area": "APV",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº4 \"ALMAFUERTE\"",
+      "fecha_notificacion": "2026-03-11T00:54:00.438034"
+    },
+    "3857133": {
+      "cargo": "PLASTICA - VISUAL (APV)",
+      "area": "APV",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº 5 \"EMMA NOZZI\"",
+      "fecha_notificacion": "2026-03-11T00:54:00.438693"
     }
   },
   "log_consultas": [
@@ -539,6 +602,12 @@
       "total_encontradas": 3,
       "nuevas": 0,
       "estado": "OK - Sin coincidencias"
+    },
+    {
+      "fecha": "2026-03-11T00:54:00.439378",
+      "total_encontradas": 37,
+      "nuevas": 9,
+      "estado": "OK"
     }
   ]
 }
