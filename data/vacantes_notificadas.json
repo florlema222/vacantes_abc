@@ -281,6 +281,34 @@
       "nivel": "ARTISTICA",
       "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº4 \"ALMAFUERTE\"",
       "fecha_notificacion": "2026-03-11T18:36:44.133266"
+    },
+    "3873507": {
+      "cargo": "PLASTICA - VISUAL (APV)",
+      "area": "APV",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº4 \"ALMAFUERTE\"",
+      "fecha_notificacion": "2026-03-13T18:24:40.097398"
+    },
+    "3873491": {
+      "cargo": "MAESTRO DE EDUCACION VISUAL INICIAL (MVI)",
+      "area": "MVI",
+      "nivel": "ARTISTICA",
+      "escuela": "JARDÍN DE INFANTES RURAL Nº10",
+      "fecha_notificacion": "2026-03-13T18:24:40.098512"
+    },
+    "3873447": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº20 \"CLARA DE JARATZ\"",
+      "fecha_notificacion": "2026-03-13T18:24:40.099361"
+    },
+    "3873475": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
+      "fecha_notificacion": "2026-03-13T18:24:40.100142"
     }
   },
   "log_consultas": [
@@ -703,6 +731,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-03-13T18:24:40.100944",
+      "total_encontradas": 22,
+      "nuevas": 4,
+      "estado": "OK"
     }
   ]
 }
