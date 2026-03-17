@@ -309,6 +309,27 @@
       "nivel": "ARTISTICA",
       "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
       "fecha_notificacion": "2026-03-13T18:24:40.100142"
+    },
+    "3883283": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº2 \"ISLAS MALVINAS\"",
+      "fecha_notificacion": "2026-03-17T00:58:25.265064"
+    },
+    "3882319": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
+      "fecha_notificacion": "2026-03-17T00:58:25.266184"
+    },
+    "3882824": {
+      "cargo": "PROYECTO DE PRODUCCI�N EN ARTES VISUALES (PAV)",
+      "area": "PAV",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº2 \"ISLAS MALVINAS\"",
+      "fecha_notificacion": "2026-03-17T00:58:25.267090"
     }
   },
   "log_consultas": [
@@ -809,6 +830,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-03-17T00:58:25.267964",
+      "total_encontradas": 22,
+      "nuevas": 3,
+      "estado": "OK"
     }
   ]
 }
