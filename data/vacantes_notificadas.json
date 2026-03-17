@@ -330,6 +330,13 @@
       "nivel": "SECUNDARIA",
       "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº2 \"ISLAS MALVINAS\"",
       "fecha_notificacion": "2026-03-17T00:58:25.267090"
+    },
+    "3886537": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
+      "fecha_notificacion": "2026-03-17T18:42:24.126398"
     }
   },
   "log_consultas": [
@@ -848,6 +855,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-03-17T18:42:24.127470",
+      "total_encontradas": 15,
+      "nuevas": 1,
+      "estado": "OK"
     }
   ]
 }
