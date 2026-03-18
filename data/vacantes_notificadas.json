@@ -337,6 +337,20 @@
       "nivel": "ARTISTICA",
       "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
       "fecha_notificacion": "2026-03-17T18:42:24.126398"
+    },
+    "3889953": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "CENTRO EDUCATIVO COMPLEMENTARIO Nº2",
+      "fecha_notificacion": "2026-03-18T01:01:52.882868"
+    },
+    "3889961": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "CENTRO EDUCATIVO COMPLEMENTARIO Nº2",
+      "fecha_notificacion": "2026-03-18T01:01:52.884003"
     }
   },
   "log_consultas": [
@@ -860,6 +874,12 @@
       "fecha": "2026-03-17T18:42:24.127470",
       "total_encontradas": 15,
       "nuevas": 1,
+      "estado": "OK"
+    },
+    {
+      "fecha": "2026-03-18T01:01:52.885006",
+      "total_encontradas": 17,
+      "nuevas": 2,
       "estado": "OK"
     }
   ]
