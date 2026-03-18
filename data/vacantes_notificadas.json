@@ -351,6 +351,20 @@
       "nivel": "ARTISTICA",
       "escuela": "CENTRO EDUCATIVO COMPLEMENTARIO Nº2",
       "fecha_notificacion": "2026-03-18T01:01:52.884003"
+    },
+    "3894190": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
+      "fecha_notificacion": "2026-03-18T18:40:45.243225"
+    },
+    "3894536": {
+      "cargo": "CONSTRUCCION DE CIUDADANIA (CCD)",
+      "area": "CCD",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº2 \"ISLAS MALVINAS\"",
+      "fecha_notificacion": "2026-03-18T18:40:45.244531"
     }
   },
   "log_consultas": [
@@ -893,6 +907,12 @@
       "total_encontradas": 2,
       "nuevas": 0,
       "estado": "OK - Sin nuevas"
+    },
+    {
+      "fecha": "2026-03-18T18:40:45.245761",
+      "total_encontradas": 18,
+      "nuevas": 2,
+      "estado": "OK"
     }
   ]
 }
