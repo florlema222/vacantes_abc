@@ -386,15 +386,23 @@
       "nivel": "ARTISTICA",
       "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
       "fecha_notificacion": "2026-03-26T01:05:25.631039"
+    },
+    "3915659": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
+      "fecha_notificacion": "2026-03-26T18:45:16.932485"
+    },
+    "3916618": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº 5 \"EMMA NOZZI\"",
+      "fecha_notificacion": "2026-03-26T18:45:16.933934"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-03-02T00:57:22.806014",
-      "total_encontradas": 13,
-      "nuevas": 0,
-      "estado": "OK - Sin nuevas"
-    },
     {
       "fecha": "2026-03-02T06:40:11.491534",
       "total_encontradas": 13,
@@ -988,6 +996,12 @@
       "total_encontradas": 1,
       "nuevas": 0,
       "estado": "OK - Sin coincidencias"
+    },
+    {
+      "fecha": "2026-03-26T18:45:16.935033",
+      "total_encontradas": 12,
+      "nuevas": 2,
+      "estado": "OK"
     }
   ]
 }
