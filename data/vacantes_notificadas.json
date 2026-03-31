@@ -421,15 +421,16 @@
       "nivel": "SECUNDARIA",
       "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº 5 \"EMMA NOZZI\"",
       "fecha_notificacion": "2026-03-30T18:41:59.013365"
+    },
+    "3929926": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
+      "fecha_notificacion": "2026-03-31T18:41:41.003672"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-03-06T18:27:01.922048",
-      "total_encontradas": 0,
-      "nuevas": 0,
-      "estado": "OK - Sin vacantes"
-    },
     {
       "fecha": "2026-03-07T00:53:51.324721",
       "total_encontradas": 26,
@@ -1023,6 +1024,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-03-31T18:41:41.004845",
+      "total_encontradas": 7,
+      "nuevas": 1,
+      "estado": "OK"
     }
   ]
 }
