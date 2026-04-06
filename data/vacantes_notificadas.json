@@ -435,15 +435,51 @@
       "nivel": "ARTISTICA",
       "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
       "fecha_notificacion": "2026-04-01T18:41:56.904174"
+    },
+    "3938833": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº2 \"ISLAS MALVINAS\"",
+      "fecha_notificacion": "2026-04-06T18:38:12.362384"
+    },
+    "3938878": {
+      "cargo": "CONSTRUCCION DE CIUDADANIA (CCD)",
+      "area": "CCD",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº3 \"7 DE MARZO\"",
+      "fecha_notificacion": "2026-04-06T18:38:12.363716"
+    },
+    "3938919": {
+      "cargo": "CONSTRUCCION DE CIUDADANIA (CCD)",
+      "area": "CCD",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº3 \"7 DE MARZO\"",
+      "fecha_notificacion": "2026-04-06T18:38:12.364843"
+    },
+    "3938965": {
+      "cargo": "CONSTRUCCION DE CIUDADANIA (CCD)",
+      "area": "CCD",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº3 \"7 DE MARZO\"",
+      "fecha_notificacion": "2026-04-06T18:38:12.365973"
+    },
+    "3939000": {
+      "cargo": "CONSTRUCCION DE CIUDADANIA (CCD)",
+      "area": "CCD",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº3 \"7 DE MARZO\"",
+      "fecha_notificacion": "2026-04-06T18:38:12.367054"
+    },
+    "3938725": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
+      "fecha_notificacion": "2026-04-06T18:38:12.368179"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-03-12T18:35:28.046929",
-      "total_encontradas": 0,
-      "nuevas": 0,
-      "estado": "OK - Sin vacantes"
-    },
     {
       "fecha": "2026-03-13T00:56:35.795034",
       "total_encontradas": 0,
@@ -1037,6 +1073,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-04-06T18:38:12.370307",
+      "total_encontradas": 20,
+      "nuevas": 6,
+      "estado": "OK"
     }
   ]
 }
