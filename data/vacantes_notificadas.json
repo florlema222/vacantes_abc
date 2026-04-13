@@ -505,15 +505,37 @@
       "nivel": "ARTISTICA",
       "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
       "fecha_notificacion": "2026-04-10T18:35:55.884032"
+    },
+    "3961943": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº2 \"ISLAS MALVINAS\"",
+      "fecha_notificacion": "2026-04-13T18:55:58.693027"
+    },
+    "3961965": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº2 \"ISLAS MALVINAS\"",
+      "fecha_notificacion": "2026-04-13T18:55:58.694346"
+    },
+    "3961635": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
+      "fecha_notificacion": "2026-04-13T18:55:58.695469"
+    },
+    "3962242": {
+      "cargo": "IMAGEN Y PROCEDIMIENTOS CONSTRUCTIVOS (LEP)",
+      "area": "LEP",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº2 \"ISLAS MALVINAS\"",
+      "fecha_notificacion": "2026-04-13T18:55:58.696625"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-03-19T18:38:21.033313",
-      "total_encontradas": 8,
-      "nuevas": 0,
-      "estado": "OK - Sin coincidencias"
-    },
     {
       "fecha": "2026-03-20T00:57:55.038189",
       "total_encontradas": 18,
@@ -1107,6 +1129,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-04-13T18:55:58.697754",
+      "total_encontradas": 9,
+      "nuevas": 4,
+      "estado": "OK"
     }
   ]
 }
