@@ -533,15 +533,23 @@
       "nivel": "SECUNDARIA",
       "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº2 \"ISLAS MALVINAS\"",
       "fecha_notificacion": "2026-04-13T18:55:58.696625"
+    },
+    "3966748": {
+      "cargo": "PLASTICA - VISUAL (APV)",
+      "area": "APV",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº4 \"ALMAFUERTE\"",
+      "fecha_notificacion": "2026-04-14T18:53:53.435522"
+    },
+    "3966348": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
+      "fecha_notificacion": "2026-04-14T18:53:53.436576"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-03-20T18:29:52.891448",
-      "total_encontradas": 10,
-      "nuevas": 1,
-      "estado": "OK"
-    },
     {
       "fecha": "2026-03-21T00:54:29.870452",
       "total_encontradas": 11,
@@ -1135,6 +1143,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-04-14T18:53:53.437511",
+      "total_encontradas": 10,
+      "nuevas": 2,
+      "estado": "OK"
     }
   ]
 }
