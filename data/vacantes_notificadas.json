@@ -575,15 +575,16 @@
       "nivel": "ARTISTICA",
       "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº11 \"HIPOLITO YRIGOYEN\"",
       "fecha_notificacion": "2026-04-17T01:13:27.156530"
+    },
+    "3979435": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
+      "fecha_notificacion": "2026-04-17T18:38:38.655128"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-03-23T18:35:59.031194",
-      "total_encontradas": 11,
-      "nuevas": 0,
-      "estado": "OK - Sin nuevas"
-    },
     {
       "fecha": "2026-03-24T00:54:48.903682",
       "total_encontradas": 11,
@@ -1177,6 +1178,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-04-17T18:38:38.656535",
+      "total_encontradas": 2,
+      "nuevas": 1,
+      "estado": "OK"
     }
   ]
 }
