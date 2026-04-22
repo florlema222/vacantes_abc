@@ -596,15 +596,16 @@
       "nivel": "ARTISTICA",
       "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
       "fecha_notificacion": "2026-04-21T18:51:57.539361"
+    },
+    "3990303": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº7",
+      "fecha_notificacion": "2026-04-22T01:10:56.107121"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-03-28T00:59:27.811670",
-      "total_encontradas": 17,
-      "nuevas": 1,
-      "estado": "OK"
-    },
     {
       "fecha": "2026-03-28T06:41:33.628966",
       "total_encontradas": 17,
@@ -1196,6 +1197,12 @@
     {
       "fecha": "2026-04-21T18:51:57.540899",
       "total_encontradas": 7,
+      "nuevas": 1,
+      "estado": "OK"
+    },
+    {
+      "fecha": "2026-04-22T01:10:56.108495",
+      "total_encontradas": 12,
       "nuevas": 1,
       "estado": "OK"
     }
