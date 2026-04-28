@@ -624,15 +624,30 @@
       "nivel": "ARTISTICA",
       "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
       "fecha_notificacion": "2026-04-27T19:00:19.695573"
+    },
+    "4007497": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
+      "fecha_notificacion": "2026-04-28T19:13:30.201157"
+    },
+    "4007738": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº8 \"GRAL. SAN MARTIN\"",
+      "fecha_notificacion": "2026-04-28T19:13:30.202520"
+    },
+    "4007752": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº8 \"GRAL. SAN MARTIN\"",
+      "fecha_notificacion": "2026-04-28T19:13:30.203716"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-04-03T18:28:47.020901",
-      "total_encontradas": 10,
-      "nuevas": 0,
-      "estado": "OK - Sin nuevas"
-    },
     {
       "fecha": "2026-04-04T01:00:08.456204",
       "total_encontradas": 10,
@@ -1226,6 +1241,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-04-28T19:13:30.204923",
+      "total_encontradas": 5,
+      "nuevas": 3,
+      "estado": "OK"
     }
   ]
 }
