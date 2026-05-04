@@ -659,15 +659,30 @@
       "nivel": "ARTISTICA",
       "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
       "fecha_notificacion": "2026-04-30T19:01:57.833256"
+    },
+    "4018751": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº6 \"CATALINA ISABEL VILLARINO\"",
+      "fecha_notificacion": "2026-05-04T19:08:30.164987"
+    },
+    "4018733": {
+      "cargo": "CONSTRUCCION DE CIUDADANIA (CCD)",
+      "area": "CCD",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº3 \"7 DE MARZO\"",
+      "fecha_notificacion": "2026-05-04T19:08:30.166496"
+    },
+    "4018406": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
+      "fecha_notificacion": "2026-05-04T19:08:30.167906"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-04-09T18:42:40.606735",
-      "total_encontradas": 5,
-      "nuevas": 0,
-      "estado": "OK - Sin nuevas"
-    },
     {
       "fecha": "2026-04-10T01:08:40.072910",
       "total_encontradas": 5,
@@ -1261,6 +1276,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-05-04T19:08:30.169332",
+      "total_encontradas": 5,
+      "nuevas": 3,
+      "estado": "OK"
     }
   ]
 }
