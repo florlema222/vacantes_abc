@@ -680,15 +680,16 @@
       "nivel": "ARTISTICA",
       "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
       "fecha_notificacion": "2026-05-04T19:08:30.167906"
+    },
+    "4019284": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº2 \"ISLAS MALVINAS\"",
+      "fecha_notificacion": "2026-05-05T01:23:05.468277"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-04-10T01:08:40.072910",
-      "total_encontradas": 5,
-      "nuevas": 0,
-      "estado": "OK - Sin nuevas"
-    },
     {
       "fecha": "2026-04-10T07:11:48.046782",
       "total_encontradas": 5,
@@ -1281,6 +1282,12 @@
       "fecha": "2026-05-04T19:08:30.169332",
       "total_encontradas": 5,
       "nuevas": 3,
+      "estado": "OK"
+    },
+    {
+      "fecha": "2026-05-05T01:23:05.469605",
+      "total_encontradas": 6,
+      "nuevas": 1,
       "estado": "OK"
     }
   ]
