@@ -687,15 +687,58 @@
       "nivel": "SECUNDARIA",
       "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº2 \"ISLAS MALVINAS\"",
       "fecha_notificacion": "2026-05-05T01:23:05.468277"
+    },
+    "4022603": {
+      "cargo": "PLASTICA - VISUAL (APV)",
+      "area": "APV",
+      "nivel": "ARTISTICA",
+      "escuela": "CENTRO EDUCATIVO PARA LA PRODUCCIÓN TOTAL Nº23",
+      "fecha_notificacion": "2026-05-06T01:20:46.407498"
+    },
+    "4022616": {
+      "cargo": "PLASTICA - VISUAL (APV)",
+      "area": "APV",
+      "nivel": "ARTISTICA",
+      "escuela": "CENTRO EDUCATIVO PARA LA PRODUCCIÓN TOTAL Nº23",
+      "fecha_notificacion": "2026-05-06T01:20:46.409010"
+    },
+    "4022625": {
+      "cargo": "PLASTICA - VISUAL (APV)",
+      "area": "APV",
+      "nivel": "ARTISTICA",
+      "escuela": "CENTRO EDUCATIVO PARA LA PRODUCCIÓN TOTAL Nº23",
+      "fecha_notificacion": "2026-05-06T01:20:46.410332"
+    },
+    "4022394": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº3 \"7 DE MARZO\"",
+      "fecha_notificacion": "2026-05-06T01:20:46.411811"
+    },
+    "4022405": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº2 \"ISLAS MALVINAS\"",
+      "fecha_notificacion": "2026-05-06T01:20:46.413114"
+    },
+    "4022415": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº2 \"ISLAS MALVINAS\"",
+      "fecha_notificacion": "2026-05-06T01:20:46.414936"
+    },
+    "4022337": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
+      "fecha_notificacion": "2026-05-06T01:20:46.416320"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-04-11T01:04:21.195156",
-      "total_encontradas": 5,
-      "nuevas": 0,
-      "estado": "OK - Sin nuevas"
-    },
     {
       "fecha": "2026-04-11T06:44:28.469667",
       "total_encontradas": 5,
@@ -1289,6 +1332,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-05-06T01:20:46.417679",
+      "total_encontradas": 16,
+      "nuevas": 7,
+      "estado": "OK"
     }
   ]
 }
