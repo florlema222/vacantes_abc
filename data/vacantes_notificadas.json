@@ -750,15 +750,23 @@
       "nivel": "ARTISTICA",
       "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
       "fecha_notificacion": "2026-05-07T19:20:25.045207"
+    },
+    "4033512": {
+      "cargo": "PLASTICA - VISUAL (APV)",
+      "area": "APV",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA AGRARIA Nº1 \"CARLOS SPEGAZZINI\"",
+      "fecha_notificacion": "2026-05-08T18:59:52.564961"
+    },
+    "4033479": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
+      "fecha_notificacion": "2026-05-08T18:59:52.566467"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-04-13T12:53:08.745713",
-      "total_encontradas": 0,
-      "nuevas": 0,
-      "estado": "OK - Sin vacantes"
-    },
     {
       "fecha": "2026-04-13T18:55:58.697754",
       "total_encontradas": 9,
@@ -1352,6 +1360,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-05-08T18:59:52.567850",
+      "total_encontradas": 3,
+      "nuevas": 2,
+      "estado": "OK"
     }
   ]
 }
