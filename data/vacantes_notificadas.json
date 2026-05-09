@@ -768,12 +768,6 @@
   },
   "log_consultas": [
     {
-      "fecha": "2026-04-14T07:13:35.729798",
-      "total_encontradas": 9,
-      "nuevas": 0,
-      "estado": "OK - Sin nuevas"
-    },
-    {
       "fecha": "2026-04-14T12:52:45.818632",
       "total_encontradas": 0,
       "nuevas": 0,
@@ -1363,6 +1357,12 @@
     },
     {
       "fecha": "2026-05-09T07:27:52.663998",
+      "total_encontradas": 6,
+      "nuevas": 0,
+      "estado": "OK - Sin nuevas"
+    },
+    {
+      "fecha": "2026-05-09T12:44:08.237130",
       "total_encontradas": 6,
       "nuevas": 0,
       "estado": "OK - Sin nuevas"
