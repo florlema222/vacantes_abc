@@ -792,15 +792,16 @@
       "nivel": "ARTISTICA",
       "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
       "fecha_notificacion": "2026-05-12T13:28:43.415011"
+    },
+    "4040832": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº8 \"EDUARDO VÁZQUEZ\"",
+      "fecha_notificacion": "2026-05-13T01:47:11.512299"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-04-17T18:38:38.656535",
-      "total_encontradas": 2,
-      "nuevas": 1,
-      "estado": "OK"
-    },
     {
       "fecha": "2026-04-18T01:06:36.313084",
       "total_encontradas": 3,
@@ -1394,6 +1395,12 @@
       "total_encontradas": 4,
       "nuevas": 0,
       "estado": "OK - Sin nuevas"
+    },
+    {
+      "fecha": "2026-05-13T01:47:11.513969",
+      "total_encontradas": 12,
+      "nuevas": 1,
+      "estado": "OK"
     }
   ]
 }
