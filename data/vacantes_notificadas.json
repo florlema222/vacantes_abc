@@ -799,15 +799,16 @@
       "nivel": "SECUNDARIA",
       "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº8 \"EDUARDO VÁZQUEZ\"",
       "fecha_notificacion": "2026-05-13T01:47:11.512299"
+    },
+    "4042428": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
+      "fecha_notificacion": "2026-05-13T13:57:10.460942"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-04-18T06:53:04.073738",
-      "total_encontradas": 3,
-      "nuevas": 0,
-      "estado": "OK - Sin nuevas"
-    },
     {
       "fecha": "2026-04-18T12:30:58.012279",
       "total_encontradas": 3,
@@ -1401,6 +1402,12 @@
       "total_encontradas": 12,
       "nuevas": 0,
       "estado": "OK - Sin nuevas"
+    },
+    {
+      "fecha": "2026-05-13T13:57:10.462533",
+      "total_encontradas": 1,
+      "nuevas": 1,
+      "estado": "OK"
     }
   ]
 }
