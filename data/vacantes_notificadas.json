@@ -813,15 +813,23 @@
       "nivel": "ARTISTICA",
       "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº30 \"JOSÉ MANUEL ESTRADA\"",
       "fecha_notificacion": "2026-05-13T19:26:24.989747"
+    },
+    "4047063": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
+      "fecha_notificacion": "2026-05-14T19:23:57.277414"
+    },
+    "4047198": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº2 \"ISLAS MALVINAS\"",
+      "fecha_notificacion": "2026-05-14T19:23:57.279012"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-04-19T12:30:25.854525",
-      "total_encontradas": 3,
-      "nuevas": 0,
-      "estado": "OK - Sin nuevas"
-    },
     {
       "fecha": "2026-04-19T18:29:17.143161",
       "total_encontradas": 3,
@@ -1415,6 +1423,12 @@
       "total_encontradas": 1,
       "nuevas": 0,
       "estado": "OK - Sin coincidencias"
+    },
+    {
+      "fecha": "2026-05-14T19:23:57.280455",
+      "total_encontradas": 5,
+      "nuevas": 2,
+      "estado": "OK"
     }
   ]
 }
