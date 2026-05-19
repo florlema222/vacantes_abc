@@ -841,15 +841,30 @@
       "nivel": "ARTISTICA",
       "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
       "fecha_notificacion": "2026-05-18T19:18:35.140862"
+    },
+    "4057518": {
+      "cargo": "ARTE (RTE)",
+      "area": "RTE",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº8 \"EDUARDO VÁZQUEZ\"",
+      "fecha_notificacion": "2026-05-19T19:30:00.320935"
+    },
+    "4056200": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
+      "fecha_notificacion": "2026-05-19T19:30:00.322600"
+    },
+    "4056867": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº21 \"JUAN GOMEZ DE LA PINTA\"",
+      "fecha_notificacion": "2026-05-19T19:30:00.324078"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-04-24T12:50:44.674749",
-      "total_encontradas": 0,
-      "nuevas": 0,
-      "estado": "OK - Sin vacantes"
-    },
     {
       "fecha": "2026-04-24T18:32:59.500729",
       "total_encontradas": 8,
@@ -1443,6 +1458,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-05-19T19:30:00.325557",
+      "total_encontradas": 5,
+      "nuevas": 3,
+      "estado": "OK"
     }
   ]
 }
