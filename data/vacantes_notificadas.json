@@ -862,15 +862,30 @@
       "nivel": "ARTISTICA",
       "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº21 \"JUAN GOMEZ DE LA PINTA\"",
       "fecha_notificacion": "2026-05-19T19:30:00.324078"
+    },
+    "4060594": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
+      "fecha_notificacion": "2026-05-20T19:57:13.991876"
+    },
+    "4060642": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº8 \"GRAL. SAN MARTIN\"",
+      "fecha_notificacion": "2026-05-20T19:57:13.993609"
+    },
+    "4060852": {
+      "cargo": "PLASTICA - VISUAL (APV)",
+      "area": "APV",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº8 \"EDUARDO VÁZQUEZ\"",
+      "fecha_notificacion": "2026-05-20T19:57:13.995104"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-04-25T12:32:38.639384",
-      "total_encontradas": 8,
-      "nuevas": 0,
-      "estado": "OK - Sin nuevas"
-    },
     {
       "fecha": "2026-04-25T18:31:48.837548",
       "total_encontradas": 8,
@@ -1464,6 +1479,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-05-20T19:57:13.996607",
+      "total_encontradas": 5,
+      "nuevas": 3,
+      "estado": "OK"
     }
   ]
 }
