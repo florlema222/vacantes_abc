@@ -953,15 +953,30 @@
       "nivel": "ARTISTICA",
       "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
       "fecha_notificacion": "2026-05-28T19:59:46.729977"
+    },
+    "4080638": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
+      "fecha_notificacion": "2026-05-29T20:01:31.742796"
+    },
+    "4080679": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACION PRIMARIA Nº38 \"ALFONSINA STORNI\"",
+      "fecha_notificacion": "2026-05-29T20:01:31.744975"
+    },
+    "4080691": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACION PRIMARIA Nº38 \"ALFONSINA STORNI\"",
+      "fecha_notificacion": "2026-05-29T20:01:31.746563"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-05-04T13:15:34.225560",
-      "total_encontradas": 0,
-      "nuevas": 0,
-      "estado": "OK - Sin vacantes"
-    },
     {
       "fecha": "2026-05-04T19:08:30.169332",
       "total_encontradas": 5,
@@ -1555,6 +1570,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-05-29T20:01:31.748165",
+      "total_encontradas": 5,
+      "nuevas": 3,
+      "estado": "OK"
     }
   ]
 }
