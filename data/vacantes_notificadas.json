@@ -988,15 +988,30 @@
       "nivel": "ARTISTICA",
       "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
       "fecha_notificacion": "2026-06-01T17:07:19.425699"
+    },
+    "4085110": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº2 \"ISLAS MALVINAS\"",
+      "fecha_notificacion": "2026-06-01T21:18:00.844634"
+    },
+    "4085128": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº3 \"7 DE MARZO\"",
+      "fecha_notificacion": "2026-06-01T21:18:00.846439"
+    },
+    "4085930": {
+      "cargo": "MAESTRO DE EDUCACION VISUAL INICIAL (MVI)",
+      "area": "MVI",
+      "nivel": "ARTISTICA",
+      "escuela": "JARDÍN DE INFANTES RURAL Nº4 \"LAS ARDILLITAS\"",
+      "fecha_notificacion": "2026-06-01T21:18:00.848097"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-05-07T19:20:25.046734",
-      "total_encontradas": 8,
-      "nuevas": 1,
-      "estado": "OK"
-    },
     {
       "fecha": "2026-05-08T01:29:17.692791",
       "total_encontradas": 8,
@@ -1589,6 +1604,12 @@
       "fecha": "2026-06-01T17:07:19.427281",
       "total_encontradas": 3,
       "nuevas": 2,
+      "estado": "OK"
+    },
+    {
+      "fecha": "2026-06-01T21:18:00.849729",
+      "total_encontradas": 9,
+      "nuevas": 3,
       "estado": "OK"
     }
   ]
