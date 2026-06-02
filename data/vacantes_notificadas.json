@@ -1023,15 +1023,23 @@
       "nivel": "ARTISTICA",
       "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
       "fecha_notificacion": "2026-06-02T15:48:55.599535"
+    },
+    "4089080": {
+      "cargo": "MAESTRO DE EDUCACION VISUAL INICIAL (MVI)",
+      "area": "MVI",
+      "nivel": "ARTISTICA",
+      "escuela": "JARDÍN DE INFANTES RURAL Nº9",
+      "fecha_notificacion": "2026-06-02T20:31:15.992832"
+    },
+    "4089064": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº18 \"MARTÍN MIGUEL DE GÜEMES\"",
+      "fecha_notificacion": "2026-06-02T20:31:15.994675"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-05-08T18:59:52.567850",
-      "total_encontradas": 3,
-      "nuevas": 2,
-      "estado": "OK"
-    },
     {
       "fecha": "2026-05-09T01:27:04.527399",
       "total_encontradas": 6,
@@ -1623,6 +1631,12 @@
     {
       "fecha": "2026-06-02T15:48:55.601154",
       "total_encontradas": 3,
+      "nuevas": 2,
+      "estado": "OK"
+    },
+    {
+      "fecha": "2026-06-02T20:31:15.996367",
+      "total_encontradas": 5,
       "nuevas": 2,
       "estado": "OK"
     }
