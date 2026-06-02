@@ -1009,15 +1009,23 @@
       "nivel": "ARTISTICA",
       "escuela": "JARDÍN DE INFANTES RURAL Nº4 \"LAS ARDILLITAS\"",
       "fecha_notificacion": "2026-06-01T21:18:00.848097"
+    },
+    "4087977": {
+      "cargo": "MAESTRO DE EDUCACION VISUAL INICIAL (MVI)",
+      "area": "MVI",
+      "nivel": "ARTISTICA",
+      "escuela": "JARDÍN DE INFANTES RURAL Nº4 \"LAS ARDILLITAS\"",
+      "fecha_notificacion": "2026-06-02T15:48:55.597762"
+    },
+    "4087967": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
+      "fecha_notificacion": "2026-06-02T15:48:55.599535"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-05-08T13:02:17.111765",
-      "total_encontradas": 0,
-      "nuevas": 0,
-      "estado": "OK - Sin vacantes"
-    },
     {
       "fecha": "2026-05-08T18:59:52.567850",
       "total_encontradas": 3,
@@ -1611,6 +1619,12 @@
       "total_encontradas": 9,
       "nuevas": 0,
       "estado": "OK - Sin nuevas"
+    },
+    {
+      "fecha": "2026-06-02T15:48:55.601154",
+      "total_encontradas": 3,
+      "nuevas": 2,
+      "estado": "OK"
     }
   ]
 }
