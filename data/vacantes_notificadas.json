@@ -1055,12 +1055,6 @@
   },
   "log_consultas": [
     {
-      "fecha": "2026-05-10T12:44:45.876674",
-      "total_encontradas": 6,
-      "nuevas": 0,
-      "estado": "OK - Sin nuevas"
-    },
-    {
       "fecha": "2026-05-10T18:41:03.719937",
       "total_encontradas": 6,
       "nuevas": 0,
@@ -1653,6 +1647,12 @@
       "total_encontradas": 2,
       "nuevas": 0,
       "estado": "OK - Sin nuevas"
+    },
+    {
+      "fecha": "2026-06-04T14:24:43.296068",
+      "total_encontradas": 0,
+      "nuevas": 0,
+      "estado": "OK - Sin vacantes"
     }
   ]
 }
