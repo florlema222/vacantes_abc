@@ -1072,15 +1072,23 @@
       "nivel": "ARTISTICA",
       "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
       "fecha_notificacion": "2026-06-05T19:25:23.028348"
+    },
+    "4103515": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº7 \"ISLAS MALVINAS\"",
+      "fecha_notificacion": "2026-06-08T19:55:11.121500"
+    },
+    "4103533": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº7 \"ISLAS MALVINAS\"",
+      "fecha_notificacion": "2026-06-08T19:55:11.123276"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-05-14T19:23:57.280455",
-      "total_encontradas": 5,
-      "nuevas": 2,
-      "estado": "OK"
-    },
     {
       "fecha": "2026-05-15T01:47:37.721195",
       "total_encontradas": 5,
@@ -1674,6 +1682,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-06-08T19:55:11.124911",
+      "total_encontradas": 3,
+      "nuevas": 2,
+      "estado": "OK"
     }
   ]
 }
