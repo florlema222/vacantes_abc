@@ -1086,15 +1086,23 @@
       "nivel": "ARTISTICA",
       "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº7 \"ISLAS MALVINAS\"",
       "fecha_notificacion": "2026-06-08T19:55:11.123276"
+    },
+    "4106822": {
+      "cargo": "PLASTICA - VISUAL (APV)",
+      "area": "APV",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº4 \"ALMAFUERTE\"",
+      "fecha_notificacion": "2026-06-09T19:50:42.456034"
+    },
+    "4106849": {
+      "cargo": "PLASTICA - VISUAL (APV)",
+      "area": "APV",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA TÉCNICA Nº1",
+      "fecha_notificacion": "2026-06-09T19:50:42.458033"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-05-15T19:09:34.863543",
-      "total_encontradas": 4,
-      "nuevas": 1,
-      "estado": "OK"
-    },
     {
       "fecha": "2026-05-16T01:27:41.966574",
       "total_encontradas": 9,
@@ -1688,6 +1696,12 @@
       "total_encontradas": 1,
       "nuevas": 0,
       "estado": "OK - Sin coincidencias"
+    },
+    {
+      "fecha": "2026-06-09T19:50:42.459753",
+      "total_encontradas": 4,
+      "nuevas": 2,
+      "estado": "OK"
     }
   ]
 }
