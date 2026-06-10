@@ -1100,15 +1100,37 @@
       "nivel": "ARTISTICA",
       "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA TÉCNICA Nº1",
       "fecha_notificacion": "2026-06-09T19:50:42.458033"
+    },
+    "4109871": {
+      "cargo": "PLASTICA - VISUAL (APV)",
+      "area": "APV",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº4 \"ALMAFUERTE\"",
+      "fecha_notificacion": "2026-06-10T20:01:58.803820"
+    },
+    "4110231": {
+      "cargo": "PLASTICA - VISUAL (APV)",
+      "area": "APV",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº3 \"7 DE MARZO\"",
+      "fecha_notificacion": "2026-06-10T20:01:58.805800"
+    },
+    "4110235": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
+      "fecha_notificacion": "2026-06-10T20:01:58.807565"
+    },
+    "4110638": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "CENTRO EDUCATIVO COMPLEMENTARIO Nº2",
+      "fecha_notificacion": "2026-06-10T20:01:58.809476"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-05-16T18:43:38.795969",
-      "total_encontradas": 9,
-      "nuevas": 0,
-      "estado": "OK - Sin nuevas"
-    },
     {
       "fecha": "2026-05-17T01:44:49.327237",
       "total_encontradas": 9,
@@ -1702,6 +1724,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-06-10T20:01:58.811237",
+      "total_encontradas": 4,
+      "nuevas": 4,
+      "estado": "OK"
     }
   ]
 }
