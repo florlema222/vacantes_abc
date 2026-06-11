@@ -1128,15 +1128,44 @@
       "nivel": "ARTISTICA",
       "escuela": "CENTRO EDUCATIVO COMPLEMENTARIO Nº2",
       "fecha_notificacion": "2026-06-10T20:01:58.809476"
+    },
+    "4113301": {
+      "cargo": "PLASTICA - VISUAL (APV)",
+      "area": "APV",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº4 \"ALMAFUERTE\"",
+      "fecha_notificacion": "2026-06-11T20:03:46.647333"
+    },
+    "4113038": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº7",
+      "fecha_notificacion": "2026-06-11T20:03:46.649162"
+    },
+    "4113157": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº14 \"MARIANO ZAMBONINI\"",
+      "fecha_notificacion": "2026-06-11T20:03:46.650892"
+    },
+    "4113185": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº14 \"MARIANO ZAMBONINI\"",
+      "fecha_notificacion": "2026-06-11T20:03:46.652681"
+    },
+    "4113298": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
+      "fecha_notificacion": "2026-06-11T20:03:46.654461"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-05-17T18:46:28.052647",
-      "total_encontradas": 9,
-      "nuevas": 0,
-      "estado": "OK - Sin nuevas"
-    },
     {
       "fecha": "2026-05-18T01:53:19.186919",
       "total_encontradas": 9,
@@ -1730,6 +1759,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-06-11T20:03:46.656212",
+      "total_encontradas": 14,
+      "nuevas": 5,
+      "estado": "OK"
     }
   ]
 }
