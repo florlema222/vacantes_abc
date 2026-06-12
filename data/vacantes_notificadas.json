@@ -1163,15 +1163,23 @@
       "nivel": "ARTISTICA",
       "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
       "fecha_notificacion": "2026-06-11T20:03:46.654461"
+    },
+    "4114752": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
+      "fecha_notificacion": "2026-06-12T19:47:33.394490"
+    },
+    "4114758": {
+      "cargo": "PLASTICA - VISUAL (APV)",
+      "area": "APV",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº4 \"ALMAFUERTE\"",
+      "fecha_notificacion": "2026-06-12T19:47:33.396448"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-05-18T19:18:35.142501",
-      "total_encontradas": 3,
-      "nuevas": 1,
-      "estado": "OK"
-    },
     {
       "fecha": "2026-05-19T01:53:33.917332",
       "total_encontradas": 3,
@@ -1765,6 +1773,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-06-12T19:47:33.398394",
+      "total_encontradas": 5,
+      "nuevas": 2,
+      "estado": "OK"
     }
   ]
 }
