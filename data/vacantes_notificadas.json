@@ -1191,15 +1191,16 @@
       "nivel": "ARTISTICA",
       "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
       "fecha_notificacion": "2026-06-16T16:15:44.280810"
+    },
+    "4119117": {
+      "cargo": "PLASTICA - VISUAL (APV)",
+      "area": "APV",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA AGRARIA Nº1 \"CARLOS SPEGAZZINI\"",
+      "fecha_notificacion": "2026-06-16T22:31:09.318995"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-05-22T19:18:28.973436",
-      "total_encontradas": 5,
-      "nuevas": 3,
-      "estado": "OK"
-    },
     {
       "fecha": "2026-05-23T01:45:12.768644",
       "total_encontradas": 5,
@@ -1792,6 +1793,12 @@
       "fecha": "2026-06-16T16:15:44.282647",
       "total_encontradas": 4,
       "nuevas": 2,
+      "estado": "OK"
+    },
+    {
+      "fecha": "2026-06-16T22:31:09.359828",
+      "total_encontradas": 6,
+      "nuevas": 1,
       "estado": "OK"
     }
   ]
