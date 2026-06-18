@@ -1212,15 +1212,23 @@
       "nivel": "ARTISTICA",
       "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
       "fecha_notificacion": "2026-06-17T19:52:55.479743"
+    },
+    "4123969": {
+      "cargo": "PLASTICA - VISUAL (APV)",
+      "area": "APV",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº6 \"CATALINA ISABEL VILLARINO\"",
+      "fecha_notificacion": "2026-06-18T14:36:21.105832"
+    },
+    "4123641": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº28",
+      "fecha_notificacion": "2026-06-18T14:36:21.107727"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-05-24T12:51:58.591644",
-      "total_encontradas": 5,
-      "nuevas": 0,
-      "estado": "OK - Sin nuevas"
-    },
     {
       "fecha": "2026-05-24T18:55:16.470330",
       "total_encontradas": 5,
@@ -1814,6 +1822,12 @@
       "total_encontradas": 2,
       "nuevas": 0,
       "estado": "OK - Sin nuevas"
+    },
+    {
+      "fecha": "2026-06-18T14:36:21.109471",
+      "total_encontradas": 3,
+      "nuevas": 2,
+      "estado": "OK"
     }
   ]
 }
