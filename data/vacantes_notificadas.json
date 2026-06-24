@@ -1247,15 +1247,30 @@
       "nivel": "SECUNDARIA",
       "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº2 \"ISLAS MALVINAS\"",
       "fecha_notificacion": "2026-06-23T19:45:09.027492"
+    },
+    "4137513": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº2 \"ISLAS MALVINAS\"",
+      "fecha_notificacion": "2026-06-24T19:21:44.952237"
+    },
+    "4137666": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº2 \"ISLAS MALVINAS\"",
+      "fecha_notificacion": "2026-06-24T19:21:44.953826"
+    },
+    "4137686": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº2 \"ISLAS MALVINAS\"",
+      "fecha_notificacion": "2026-06-24T19:21:44.955235"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-05-30T18:53:35.495349",
-      "total_encontradas": 5,
-      "nuevas": 0,
-      "estado": "OK - Sin nuevas"
-    },
     {
       "fecha": "2026-05-31T01:58:14.385984",
       "total_encontradas": 5,
@@ -1849,6 +1864,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-06-24T19:21:44.960547",
+      "total_encontradas": 6,
+      "nuevas": 3,
+      "estado": "OK"
     }
   ]
 }
