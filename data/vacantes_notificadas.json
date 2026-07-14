@@ -1282,15 +1282,23 @@
       "nivel": "SECUNDARIA",
       "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº3 \"7 DE MARZO\"",
       "fecha_notificacion": "2026-07-03T01:24:16.129579"
+    },
+    "4166909": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº11 \"HIPOLITO YRIGOYEN\"",
+      "fecha_notificacion": "2026-07-14T12:57:19.070245"
+    },
+    "4166925": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº11 \"HIPOLITO YRIGOYEN\"",
+      "fecha_notificacion": "2026-07-14T12:57:19.073164"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-06-19T14:33:39.279496",
-      "total_encontradas": 0,
-      "nuevas": 0,
-      "estado": "OK - Sin vacantes"
-    },
     {
       "fecha": "2026-06-19T19:19:46.462048",
       "total_encontradas": 18,
@@ -1884,6 +1892,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-07-14T12:57:19.076170",
+      "total_encontradas": 4,
+      "nuevas": 2,
+      "estado": "OK"
     }
   ]
 }
