@@ -1324,15 +1324,16 @@
       "nivel": "ARTISTICA",
       "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº8 \"GRAL. SAN MARTIN\"",
       "fecha_notificacion": "2026-08-05T01:12:25.534996"
+    },
+    "4185357": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº6 \"CATALINA ISABEL VILLARINO\"",
+      "fecha_notificacion": "2026-08-06T13:25:30.229796"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-07-12T12:44:30.280811",
-      "total_encontradas": 0,
-      "nuevas": 0,
-      "estado": "OK - Sin vacantes"
-    },
     {
       "fecha": "2026-07-12T18:43:10.330162",
       "total_encontradas": 0,
@@ -1926,6 +1927,12 @@
       "total_encontradas": 11,
       "nuevas": 0,
       "estado": "OK - Sin coincidencias"
+    },
+    {
+      "fecha": "2026-08-06T13:25:30.231806",
+      "total_encontradas": 1,
+      "nuevas": 1,
+      "estado": "OK"
     }
   ]
 }
