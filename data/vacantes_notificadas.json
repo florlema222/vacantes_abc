@@ -1349,12 +1349,6 @@
   },
   "log_consultas": [
     {
-      "fecha": "2026-07-18T07:21:15.221134",
-      "total_encontradas": 0,
-      "nuevas": 0,
-      "estado": "OK - Sin vacantes"
-    },
-    {
       "fecha": "2026-07-18T12:41:14.552759",
       "total_encontradas": 0,
       "nuevas": 0,
@@ -1944,6 +1938,12 @@
     },
     {
       "fecha": "2026-08-12T00:46:10.013253",
+      "total_encontradas": 0,
+      "nuevas": 0,
+      "estado": "ERROR - Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "fecha": "2026-08-12T07:00:57.321388",
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "ERROR - Expecting value: line 1 column 1 (char 0)"
