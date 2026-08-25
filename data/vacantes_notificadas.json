@@ -1366,15 +1366,23 @@
       "nivel": "SECUNDARIA",
       "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº2 \"ISLAS MALVINAS\"",
       "fecha_notificacion": "2026-08-19T12:16:40.540041"
+    },
+    "4235666": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº3 \"7 DE MARZO\"",
+      "fecha_notificacion": "2026-08-25T00:26:31.435972"
+    },
+    "4235678": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº3 \"7 DE MARZO\"",
+      "fecha_notificacion": "2026-08-25T00:26:31.438061"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-07-31T01:20:23.186315",
-      "total_encontradas": 2,
-      "nuevas": 0,
-      "estado": "OK - Sin nuevas"
-    },
     {
       "fecha": "2026-07-31T08:24:34.823438",
       "total_encontradas": 2,
@@ -1968,6 +1976,12 @@
       "total_encontradas": 3,
       "nuevas": 0,
       "estado": "OK - Sin coincidencias"
+    },
+    {
+      "fecha": "2026-08-25T00:26:31.440134",
+      "total_encontradas": 10,
+      "nuevas": 2,
+      "estado": "OK"
     }
   ]
 }
