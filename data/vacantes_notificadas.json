@@ -1380,15 +1380,37 @@
       "nivel": "SECUNDARIA",
       "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº3 \"7 DE MARZO\"",
       "fecha_notificacion": "2026-08-25T00:26:31.438061"
+    },
+    "4242645": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº14 \"MARIANO ZAMBONINI\"",
+      "fecha_notificacion": "2026-08-26T19:26:54.377178"
+    },
+    "4242650": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº14 \"MARIANO ZAMBONINI\"",
+      "fecha_notificacion": "2026-08-26T19:26:54.379346"
+    },
+    "4242664": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº21 \"JUAN GOMEZ DE LA PINTA\"",
+      "fecha_notificacion": "2026-08-26T19:26:54.381485"
+    },
+    "4242671": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº21 \"JUAN GOMEZ DE LA PINTA\"",
+      "fecha_notificacion": "2026-08-26T19:26:54.383427"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-08-01T18:47:02.942146",
-      "total_encontradas": 2,
-      "nuevas": 0,
-      "estado": "OK - Sin nuevas"
-    },
     {
       "fecha": "2026-08-02T01:19:32.721521",
       "total_encontradas": 2,
@@ -1982,6 +2004,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-08-26T19:26:54.385390",
+      "total_encontradas": 7,
+      "nuevas": 4,
+      "estado": "OK"
     }
   ]
 }
