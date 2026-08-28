@@ -1415,15 +1415,30 @@
       "nivel": "ARTISTICA",
       "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº11 \"HIPOLITO YRIGOYEN\"",
       "fecha_notificacion": "2026-08-27T16:52:36.721375"
+    },
+    "4245599": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº21 \"JUAN GOMEZ DE LA PINTA\"",
+      "fecha_notificacion": "2026-08-28T01:48:17.276047"
+    },
+    "4245617": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº21 \"JUAN GOMEZ DE LA PINTA\"",
+      "fecha_notificacion": "2026-08-28T01:48:17.277969"
+    },
+    "4245632": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº21 \"JUAN GOMEZ DE LA PINTA\"",
+      "fecha_notificacion": "2026-08-28T01:48:17.279848"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-08-02T12:47:22.923254",
-      "total_encontradas": 2,
-      "nuevas": 0,
-      "estado": "OK - Sin nuevas"
-    },
     {
       "fecha": "2026-08-02T18:46:07.090566",
       "total_encontradas": 2,
@@ -2016,6 +2031,12 @@
       "fecha": "2026-08-27T16:52:36.723528",
       "total_encontradas": 5,
       "nuevas": 1,
+      "estado": "OK"
+    },
+    {
+      "fecha": "2026-08-28T01:48:17.281545",
+      "total_encontradas": 9,
+      "nuevas": 3,
       "estado": "OK"
     }
   ]
