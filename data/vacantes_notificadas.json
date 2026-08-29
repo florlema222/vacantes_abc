@@ -1436,15 +1436,23 @@
       "nivel": "ARTISTICA",
       "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº21 \"JUAN GOMEZ DE LA PINTA\"",
       "fecha_notificacion": "2026-08-28T01:48:17.279848"
+    },
+    "4248573": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº2 \"BARTOLOME MITRE\"",
+      "fecha_notificacion": "2026-08-29T01:11:52.277493"
+    },
+    "4248530": {
+      "cargo": "MAESTRO DE EDUCACION VISUAL INICIAL (MVI)",
+      "area": "MVI",
+      "nivel": "ARTISTICA",
+      "escuela": "JARDÍN DE INFANTES RURAL Nº2",
+      "fecha_notificacion": "2026-08-29T01:11:52.279160"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-08-03T01:19:45.568316",
-      "total_encontradas": 2,
-      "nuevas": 0,
-      "estado": "OK - Sin nuevas"
-    },
     {
       "fecha": "2026-08-03T08:53:17.872716",
       "total_encontradas": 2,
@@ -2038,6 +2046,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-08-29T01:11:52.280835",
+      "total_encontradas": 3,
+      "nuevas": 2,
+      "estado": "OK"
     }
   ]
 }
