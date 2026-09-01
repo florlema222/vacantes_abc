@@ -1492,15 +1492,23 @@
       "nivel": "ARTISTICA",
       "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº2 \"BARTOLOME MITRE\"",
       "fecha_notificacion": "2026-08-31T18:14:09.417504"
+    },
+    "4256879": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº4 \"ALMAFUERTE\"",
+      "fecha_notificacion": "2026-09-01T20:11:17.787166"
+    },
+    "4257073": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº2 \"ISLAS MALVINAS\"",
+      "fecha_notificacion": "2026-09-01T20:11:17.789412"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-08-06T13:25:30.231806",
-      "total_encontradas": 1,
-      "nuevas": 1,
-      "estado": "OK"
-    },
     {
       "fecha": "2026-08-06T22:34:37.398693",
       "total_encontradas": 13,
@@ -2094,6 +2102,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-09-01T20:11:17.791603",
+      "total_encontradas": 7,
+      "nuevas": 2,
+      "estado": "OK"
     }
   ]
 }
