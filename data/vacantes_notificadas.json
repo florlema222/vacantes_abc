@@ -1506,15 +1506,37 @@
       "nivel": "SECUNDARIA",
       "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº2 \"ISLAS MALVINAS\"",
       "fecha_notificacion": "2026-09-01T20:11:17.789412"
+    },
+    "4260064": {
+      "cargo": "PLASTICA - VISUAL (APV)",
+      "area": "APV",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº3 \"7 DE MARZO\"",
+      "fecha_notificacion": "2026-09-02T20:09:41.897283"
+    },
+    "4260114": {
+      "cargo": "PLASTICA - VISUAL (APV)",
+      "area": "APV",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA AGRARIA Nº1 \"CARLOS SPEGAZZINI\"",
+      "fecha_notificacion": "2026-09-02T20:09:41.900161"
+    },
+    "4260141": {
+      "cargo": "PLASTICA - VISUAL (APV)",
+      "area": "APV",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA AGRARIA Nº1 \"CARLOS SPEGAZZINI\"",
+      "fecha_notificacion": "2026-09-02T20:09:41.902263"
+    },
+    "4260164": {
+      "cargo": "ARTE (RTE)",
+      "area": "RTE",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº6 \"CATALINA ISABEL VILLARINO\"",
+      "fecha_notificacion": "2026-09-02T20:09:41.904348"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-08-07T12:32:28.294920",
-      "total_encontradas": 0,
-      "nuevas": 0,
-      "estado": "OK - Sin vacantes"
-    },
     {
       "fecha": "2026-08-07T18:34:04.476052",
       "total_encontradas": 0,
@@ -2108,6 +2130,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-09-02T20:09:41.906428",
+      "total_encontradas": 13,
+      "nuevas": 4,
+      "estado": "OK"
     }
   ]
 }
