@@ -1534,15 +1534,16 @@
       "nivel": "SECUNDARIA",
       "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº6 \"CATALINA ISABEL VILLARINO\"",
       "fecha_notificacion": "2026-09-02T20:09:41.904348"
+    },
+    "4263861": {
+      "cargo": "PLASTICA - VISUAL (APV)",
+      "area": "APV",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº1 \"PASO ALSINA\"",
+      "fecha_notificacion": "2026-09-03T20:10:29.986845"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-08-08T12:18:11.178022",
-      "total_encontradas": 6,
-      "nuevas": 0,
-      "estado": "OK - Sin coincidencias"
-    },
     {
       "fecha": "2026-08-08T18:16:48.164550",
       "total_encontradas": 6,
@@ -2136,6 +2137,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-09-03T20:10:29.998320",
+      "total_encontradas": 4,
+      "nuevas": 1,
+      "estado": "OK"
     }
   ]
 }
