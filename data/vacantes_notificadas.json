@@ -1541,15 +1541,16 @@
       "nivel": "ARTISTICA",
       "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº1 \"PASO ALSINA\"",
       "fecha_notificacion": "2026-09-03T20:10:29.986845"
+    },
+    "4270945": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº2 \"ISLAS MALVINAS\"",
+      "fecha_notificacion": "2026-09-07T20:50:05.508417"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-08-12T12:36:02.418311",
-      "total_encontradas": 0,
-      "nuevas": 0,
-      "estado": "ERROR - Expecting value: line 1 column 1 (char 0)"
-    },
     {
       "fecha": "2026-08-12T18:42:27.856913",
       "total_encontradas": 0,
@@ -2143,6 +2144,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-09-07T20:50:05.510318",
+      "total_encontradas": 6,
+      "nuevas": 1,
+      "estado": "OK"
     }
   ]
 }
