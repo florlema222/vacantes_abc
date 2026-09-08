@@ -1552,12 +1552,6 @@
   },
   "log_consultas": [
     {
-      "fecha": "2026-08-12T18:42:27.856913",
-      "total_encontradas": 0,
-      "nuevas": 0,
-      "estado": "ERROR - Expecting value: line 1 column 1 (char 0)"
-    },
-    {
       "fecha": "2026-08-13T00:48:45.194531",
       "total_encontradas": 0,
       "nuevas": 0,
@@ -2150,6 +2144,12 @@
       "total_encontradas": 6,
       "nuevas": 1,
       "estado": "OK"
+    },
+    {
+      "fecha": "2026-09-08T01:31:58.919513",
+      "total_encontradas": 6,
+      "nuevas": 0,
+      "estado": "OK - Sin nuevas"
     }
   ]
 }
