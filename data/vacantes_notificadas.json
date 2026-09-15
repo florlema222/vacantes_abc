@@ -1555,15 +1555,23 @@
       "nivel": "SECUNDARIA",
       "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº2 \"ISLAS MALVINAS\"",
       "fecha_notificacion": "2026-09-14T21:04:33.941275"
+    },
+    "4287657": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº6 \"CATALINA ISABEL VILLARINO\"",
+      "fecha_notificacion": "2026-09-15T20:29:36.337737"
+    },
+    "4287668": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº6 \"CATALINA ISABEL VILLARINO\"",
+      "fecha_notificacion": "2026-09-15T20:29:36.700239"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-08-20T12:18:23.538011",
-      "total_encontradas": 0,
-      "nuevas": 0,
-      "estado": "OK - Sin vacantes"
-    },
     {
       "fecha": "2026-08-20T18:17:52.590079",
       "total_encontradas": 9,
@@ -2157,6 +2165,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-09-15T20:29:37.253853",
+      "total_encontradas": 3,
+      "nuevas": 2,
+      "estado": "OK"
     }
   ]
 }
