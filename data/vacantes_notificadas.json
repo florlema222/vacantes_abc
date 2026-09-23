@@ -1569,15 +1569,16 @@
       "nivel": "SECUNDARIA",
       "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº6 \"CATALINA ISABEL VILLARINO\"",
       "fecha_notificacion": "2026-09-15T20:29:36.700239"
+    },
+    "4307762": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº6 \"CATALINA ISABEL VILLARINO\"",
+      "fecha_notificacion": "2026-09-23T20:43:49.863916"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-08-29T15:46:32.481657",
-      "total_encontradas": 3,
-      "nuevas": 0,
-      "estado": "OK - Sin nuevas"
-    },
     {
       "fecha": "2026-08-29T20:01:58.556010",
       "total_encontradas": 3,
@@ -2171,6 +2172,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-09-23T20:43:49.866449",
+      "total_encontradas": 10,
+      "nuevas": 1,
+      "estado": "OK"
     }
   ]
 }
