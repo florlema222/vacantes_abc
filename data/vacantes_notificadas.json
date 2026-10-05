@@ -1604,15 +1604,16 @@
       "nivel": "SECUNDARIA",
       "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº2 \"ISLAS MALVINAS\"",
       "fecha_notificacion": "2026-09-30T17:01:58.130784"
+    },
+    "4333087": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº3 \"7 DE MARZO\"",
+      "fecha_notificacion": "2026-10-05T23:22:56.751126"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-09-10T10:05:30.043960",
-      "total_encontradas": 3,
-      "nuevas": 0,
-      "estado": "OK - Sin coincidencias"
-    },
     {
       "fecha": "2026-09-10T15:15:23.861890",
       "total_encontradas": 0,
@@ -2206,6 +2207,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-10-05T23:22:56.753694",
+      "total_encontradas": 11,
+      "nuevas": 1,
+      "estado": "OK"
     }
   ]
 }
