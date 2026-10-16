@@ -1639,15 +1639,16 @@
       "nivel": "SECUNDARIA",
       "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº8 \"EDUARDO VÁZQUEZ\"",
       "fecha_notificacion": "2026-10-15T15:48:15.678073"
+    },
+    "4354426": {
+      "cargo": "CONSTRUCCION DE CIUDADANIA (CCD)",
+      "area": "CCD",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº8 \"EDUARDO VÁZQUEZ\"",
+      "fecha_notificacion": "2026-10-16T15:37:06.374026"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-09-19T14:51:49.245475",
-      "total_encontradas": 4,
-      "nuevas": 0,
-      "estado": "OK - Sin coincidencias"
-    },
     {
       "fecha": "2026-09-19T19:37:30.407904",
       "total_encontradas": 4,
@@ -2241,6 +2242,12 @@
       "total_encontradas": 4,
       "nuevas": 0,
       "estado": "OK - Sin nuevas"
+    },
+    {
+      "fecha": "2026-10-16T15:37:06.444974",
+      "total_encontradas": 1,
+      "nuevas": 1,
+      "estado": "OK"
     }
   ]
 }
