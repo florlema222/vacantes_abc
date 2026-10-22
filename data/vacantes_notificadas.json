@@ -1646,15 +1646,30 @@
       "nivel": "SECUNDARIA",
       "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº8 \"EDUARDO VÁZQUEZ\"",
       "fecha_notificacion": "2026-10-16T15:37:06.374026"
+    },
+    "4369703": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº8 \"EDUARDO VÁZQUEZ\"",
+      "fecha_notificacion": "2026-10-22T20:52:22.467088"
+    },
+    "4369821": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº3 \"7 DE MARZO\"",
+      "fecha_notificacion": "2026-10-22T20:52:22.469550"
+    },
+    "4369857": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº3 \"7 DE MARZO\"",
+      "fecha_notificacion": "2026-10-22T20:52:22.471857"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-09-25T20:46:45.992538",
-      "total_encontradas": 2,
-      "nuevas": 0,
-      "estado": "OK - Sin coincidencias"
-    },
     {
       "fecha": "2026-09-26T02:05:55.537184",
       "total_encontradas": 2,
@@ -2248,6 +2263,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-10-22T20:52:22.474171",
+      "total_encontradas": 6,
+      "nuevas": 3,
+      "estado": "OK"
     }
   ]
 }
