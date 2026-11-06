@@ -1734,12 +1734,6 @@
   },
   "log_consultas": [
     {
-      "fecha": "2026-10-10T11:25:35.760665",
-      "total_encontradas": 1,
-      "nuevas": 0,
-      "estado": "OK - Sin coincidencias"
-    },
-    {
       "fecha": "2026-10-10T16:24:35.905535",
       "total_encontradas": 1,
       "nuevas": 0,
@@ -2332,6 +2326,12 @@
       "total_encontradas": 9,
       "nuevas": 0,
       "estado": "OK - Sin nuevas"
+    },
+    {
+      "fecha": "2026-11-06T13:17:11.968002",
+      "total_encontradas": 0,
+      "nuevas": 0,
+      "estado": "OK - Sin vacantes"
     }
   ]
 }
