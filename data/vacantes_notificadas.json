@@ -1737,15 +1737,44 @@
       "nivel": "SECUNDARIA",
       "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº2 \"ISLAS MALVINAS\"",
       "fecha_notificacion": "2026-11-18T00:03:34.095427"
+    },
+    "4421273": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº12 \"NUESTRA SEÑORA DEL CARMEN\"",
+      "fecha_notificacion": "2026-11-26T01:11:33.473363"
+    },
+    "4421279": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº12 \"NUESTRA SEÑORA DEL CARMEN\"",
+      "fecha_notificacion": "2026-11-26T01:11:33.475892"
+    },
+    "4421286": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº12 \"NUESTRA SEÑORA DEL CARMEN\"",
+      "fecha_notificacion": "2026-11-26T01:11:33.478326"
+    },
+    "4421289": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº12 \"NUESTRA SEÑORA DEL CARMEN\"",
+      "fecha_notificacion": "2026-11-26T01:11:33.480698"
+    },
+    "4421305": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº12 \"NUESTRA SEÑORA DEL CARMEN\"",
+      "fecha_notificacion": "2026-11-26T01:11:33.483063"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-10-24T09:52:10.392148",
-      "total_encontradas": 3,
-      "nuevas": 0,
-      "estado": "OK - Sin coincidencias"
-    },
     {
       "fecha": "2026-10-24T14:55:34.256748",
       "total_encontradas": 3,
@@ -2339,6 +2368,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-11-26T01:11:33.485381",
+      "total_encontradas": 9,
+      "nuevas": 5,
+      "estado": "OK"
     }
   ]
 }
