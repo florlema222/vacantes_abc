@@ -1772,15 +1772,58 @@
       "nivel": "ARTISTICA",
       "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº12 \"NUESTRA SEÑORA DEL CARMEN\"",
       "fecha_notificacion": "2026-11-26T01:11:33.483063"
+    },
+    "4423456": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº12 \"NUESTRA SEÑORA DEL CARMEN\"",
+      "fecha_notificacion": "2026-11-27T01:10:44.972031"
+    },
+    "4423447": {
+      "cargo": "PRECEPTOR (/PR)",
+      "area": "/PR",
+      "nivel": "SECUNDARIA",
+      "escuela": "ESCUELA DE EDUCACIÓN SECUNDARIA Nº8 \"EDUARDO VÁZQUEZ\"",
+      "fecha_notificacion": "2026-11-27T01:10:44.974005"
+    },
+    "4423459": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº12 \"NUESTRA SEÑORA DEL CARMEN\"",
+      "fecha_notificacion": "2026-11-27T01:10:44.975958"
+    },
+    "4423460": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº12 \"NUESTRA SEÑORA DEL CARMEN\"",
+      "fecha_notificacion": "2026-11-27T01:10:44.977909"
+    },
+    "4423466": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº12 \"NUESTRA SEÑORA DEL CARMEN\"",
+      "fecha_notificacion": "2026-11-27T01:10:44.979831"
+    },
+    "4423472": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº12 \"NUESTRA SEÑORA DEL CARMEN\"",
+      "fecha_notificacion": "2026-11-27T01:10:44.981744"
+    },
+    "4423477": {
+      "cargo": "Maestro de Expresi�n Pl�stica Primaria (MPP)",
+      "area": "MPP",
+      "nivel": "ARTISTICA",
+      "escuela": "ESCUELA DE EDUCACIÓN PRIMARIA Nº12 \"NUESTRA SEÑORA DEL CARMEN\"",
+      "fecha_notificacion": "2026-11-27T01:10:44.983701"
     }
   },
   "log_consultas": [
-    {
-      "fecha": "2026-10-24T19:52:17.797056",
-      "total_encontradas": 3,
-      "nuevas": 0,
-      "estado": "OK - Sin coincidencias"
-    },
     {
       "fecha": "2026-10-25T01:50:36.733167",
       "total_encontradas": 3,
@@ -2374,6 +2417,12 @@
       "total_encontradas": 0,
       "nuevas": 0,
       "estado": "OK - Sin vacantes"
+    },
+    {
+      "fecha": "2026-11-27T01:10:44.985651",
+      "total_encontradas": 11,
+      "nuevas": 7,
+      "estado": "OK"
     }
   ]
 }
